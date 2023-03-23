@@ -1,51 +1,69 @@
-tile.blockRubber.name=ゴムシート
-tile.blockRubSapling.name=ゴムの苗
-tile.blockRubWood.name=ゴムの原木
+//tile
+//Base Classes
 tile.blockCrop.name=支柱
+tile.blockMachineLV.name=低圧マシン
+tile.blockMachineLV2.name=低圧マシン
+tile.blockMachineMV.name=中圧マシン
+tile.blockMachineHV.name=高圧マシン
+tile.blockCompactedGenerator.name=圧縮ジェネレータ
+tile.blockChambers.name=チャンバーブロック
+tile.blockExplosive.name=爆発物
+tile.blockNoUse.name=使用禁止
+tile.blockUtility.name=ユーティリティ ブロック
+tile.blockMetal.name=金属ブロック
+tile.blockPersonal.name=個人ブロック
+tile.blockCable.name=ケーブルブロック
+tile.chargePad.name=チャージパッドブロック
+tile.blockElectric.name=電気ブロック
+tile.blockLuminator.name=ルミネーター
+tile.blockLuminatorMultiPart.name=ルミネーター
+tile.advComparator.name=高度なコンパレータ
 
-tile.blockOreUran.name=ウラン鉱石
-tile.blockOreTin.name=錫鉱石
-tile.blockOreCopper.name=銅鉱石
+//Rubber
+tile.leaves.name=木の葉
+tile.blockRubWood.name=ゴムの原木
+tile.blockRubSapling.name=ゴムの苗
+tile.blockHarz.name=樹脂シート
+tile.blockRubber.name=ゴムシート
 
+//Misc
+tile.blockFenceIron.name=鉄の柵
+tile.blockFoam.name=建設用フォーム
+tile.blockWall.name=建設発泡壁
+tile.blockPixelFoam.name=ピクセルフォーム
+tile.blockWool.name=建設フォームウール
+tile.blockWallTextured.name=織り目加工の壁
+tile.blockBarrel.name=バレル
 tile.blockScaffold.name=足場
 tile.blockIronScaffold.name=鉄の足場
-tile.blockITNT.name=工業用TNT
-tile.blockNuke.name=核爆弾
-tile.blockHarz.name=樹脂シート
+tile.blockDoorAlloy.name=強化ドア
 
-tile.blockFoam.name=CF
-tile.blockFenceIron.name=鉄の柵
-tile.blockAlloyGlass.name=強化ガラス
-tile.blockAlloy.name=強化石材
+//Metals
+tile.blockOreCopper.name=銅鉱石
+tile.blockOreTin.name=錫鉱石
+tile.blockOreUran.name=ウラン鉱石
+tile.blockOreSilver.name=銀鉱石
 tile.blockMetalCopper.name=銅ブロック
 tile.blockMetalTin.name=錫ブロック
 tile.blockMetalBronze.name=青銅ブロック
 tile.blockMetalUranium.name=ウランブロック
+tile.blockMetalSilver.name=銀ブロック
+tile.blockCharcoal.name=木炭ブロック
 
-tile.blockLuminator.name=ルミネーター
-tile.blockLuminatorMultiPart.name=ルミネーター
+//Explosive
+tile.blockITNT.name=工業用TNT
+tile.blockNuke.name=核爆弾
+
+//Utility Block
 tile.blockMiningPipe.name=採掘パイプ
 tile.blockMiningTip.name=採掘パイプ
-tile.blockMachine.name=マシンブロック
-tile.blockAdvMachine.name=上位マシンブロック
+tile.blockAlloy.name=強化石材
+tile.blockAlloyGlass.name=強化ガラス
+tile.blockAlloyBrick.name=強化レンガ
+tile.blockAlloyClearGlass.name=クリア強化ガラス
+tile.blockAlloyCracked.name=割れた強化石材
 
-tile.blockBatBox.name=BatBox
-tile.blockMFE.name=MFE
-tile.blockMFSU.name=MFSU
-tile.blockBatteryBox.name=バッテリーボックス
-
-tile.blockTransformerLV.name=低圧変圧器
-tile.blockTransformerMV.name=中圧変圧器
-tile.blockTransformerHV.name=高圧変圧器
-tile.blockTransformerEV.name=超高圧変圧器
-tile.blockAdjustableTranformer.name=可変変圧器
-tile.blockCreativeStorage.name=クリエイティブ用蓄電機
-
-tile.chargePadLV.name=静電気チャージパッド
-tile.chargePadMV.name=クリスタライザーチャージパッド
-tile.chargePadHV.name=ラポトロニックチャージパッド
-tile.chargePadNuclear.name=フィッションチャージパッド
-
+//Generator Block
 tile.blockGenerator.name=火力発電機
 tile.blockGeoGenerator.name=地熱発電機
 tile.blockWaterGenerator.name=水力発電機
@@ -53,15 +71,47 @@ tile.blockSolarGenerator.name=ソーラーパネル
 tile.blockWindGenerator.name=風力発電機
 tile.blockNuclearReactor.name=原子炉
 tile.blockSteamReactor.name=蒸気反応器
-tile.blockReactorChamber.name=原子炉チャンバー
-tile.blockSteamChamber.name=蒸気反応器チャンバー
+tile.basicTurbine.name=基本蒸気タービン
+tile.blockThermalGenerator.name=熱発電機
+tile.blockSolarTurbine.name=ソーラータービン
+tile.blockLiquidFuelGenerator.name=液体燃料発電機
+tile.blockSlagGenerator.name=スラグ発電機
+tile.waveGenerator.name=波力発電機
+tile.oceanGenerator.name=海洋発電機
+tile.blockBoiler.name=燃料ボイラー
+
+//Compacted Generator
 tile.blockSolarLV.name=低圧ソーラーパネル
 tile.blockSolarMV.name=中圧ソーラーパネル
 tile.blockSolarHV.name=高圧ソーラーパネル
 tile.blockWaterMillLV.name=低圧水力発電機
 tile.blockWaterMillMV.name=中圧水力発電機
 tile.blockWaterMillHV.name=高圧水力発電機
+tile.LVRFProducer.name=電気式小型RF発電機(LV)
+tile.MVRFProducer.name=電気式中型RF発電機(MV)
+tile.HVRFProducer.name=電気式大型RF発電機(HV)
 
+
+//Reactor Chambers
+tile.blockReactorChamber.name=原子炉チャンバー
+tile.blockSteamChamber.name=蒸気反応器チャンバー
+
+//Electric Block
+tile.blockBatBox.name=バットボックス
+tile.blockMFE.name=MFE
+tile.blockMFSU.name=MFSU
+tile.blockBatteryBox.name=バッテリーボックス
+tile.blockCreativeStorage.name=クリエイティブ用蓄電機
+tile.blockPesu.name=PESU
+tile.blockTransformerLV.name=低圧変圧器
+tile.blockTransformerMV.name=中圧変圧器
+tile.blockTransformerHV.name=高圧変圧器
+tile.blockTransformerEV.name=超高圧変圧器
+tile.blockTransformerIV.name=超超高圧発電機
+tile.blockAdjustableTranformer.name=可変変圧器
+
+//LV Machines
+tile.blockMachine.name=マシンブロック
 tile.blockIronFurnace.name=鉄かまど
 tile.blockElecFurnace.name=電気かまど
 tile.blockMacerator.name=粉砕機
@@ -73,30 +123,153 @@ tile.blockPump.name=ポンプ
 tile.blockMagnetizer.name=磁気発生装置
 tile.blockElectrolyzer.name=電解水精製装置
 tile.blockRecycler.name=リサイクラー
-tile.blockInduction.name=誘導加熱かまど
-tile.blockMatter.name=マター製造機
-tile.blockTerra.name=テラフォーマー
-tile.blockTeleporter.name=テレポーター
-tile.blockTesla.name=テスラコイル
 tile.blockCropmatron.name=農薬散布機
-tile.blockSingularity.name=応力特異型圧縮機
-tile.blockCentrifug.name=遠心分離機
+tile.blockSoundBeacon.name=サウンドビーコン
+tile.blockCropScanner.name=作物スキャナー
+tile.blockStoneMacerator.name=石式粉砕機
+tile.blockWoodGasser.name=木材ガス化装置
+tile.blockElectricWoodGasser.name=電気木材ガス化装置
+tile.blockRareEarthExtractor.name=希土類抽出器
+tile.blockCropLibrary.name=作物ライブラリ
+tile.blockMachineBuffer.name=マシンバッファ
+tile.blockMachineTank.name=機械タンク
+tile.blockIndustrialWorktable.name=工業用作業台
+tile.blockSawMill.name=製材所
+
+//MV Machines
+tile.blockAdvMachine.name=上位マシンブロック
+tile.blockInduction.name=誘導加熱かまど
 tile.blockRotary.name=回転式粉砕機
-tile.blockCharged.name=帯電電解水精製装置
+tile.blockCentrifug.name=遠心分離機
+tile.blockSingularity.name=応力特異型圧縮機
 tile.blockVacuum.name=真空缶詰装置
 tile.blockCompacting.name=圧縮式リサイクラー
-tile.blockElectricEnchanter.name=電動エンチャント台
+tile.blockCharged.name=帯電電解水精製装置
 tile.blockOreScanner.name=鉱石スキャナー
-tile.blockCropScanner.name=作物スキャナー
-tile.blockReactorPlanner.name=原子炉シュミレーター
-tile.blockSoundBeacon.name=サウンドビーコン
-tile.blockUraniumEnricher.name=ウラン濃縮機
+tile.blockTesla.name=テスラコイル
+tile.blockReactorPlanner.name=原子炉シミュレーター
 tile.blockCropHarvester.name=作物刈り取り機
+tile.blockAdvPump.name=オーバークロックポンプ
+tile.blockRangedPump.name=遠距離ポンプ
 
-tile.blockPersonalChest.name=個人用チェスト
+//HV Machines
+tile.blockTerra.name=テラフォーマー
+tile.blockMatter.name=マター製造機
+tile.blockTeleporter.name=テレポーター
+tile.blockUraniumEnricher.name=ウラン濃縮機
+tile.blockElectricEnchanter.name=電動エンチャント台
+tile.blockPlasmafier.name=プラズマ化機
+tile.blockTeleporterHub.name=テレポーターハブ
+
+//Charge Pad
+tile.chargePadLV.name=静電気チャージパッド
+tile.chargePadMV.name=クリスタライザーチャージパッド
+tile.chargePadHV.name=ラポトロニックチャージパッド
+tile.chargePadNuclear.name=フィッションチャージパッド
+
+//Personal Blocks
 tile.blockPersonalTrader.name=アイテム交換器
-tile.blockPersonalTraderEnergy.name=エネルギー交換器
 tile.blockPersonalTraderFluid.name=液体交換器
+tile.blockPersonalTraderEnergy.name=エネルギー交換器
+tile.blockPersonalChest.name=個人用チェスト
+tile.blockPersonalTank.name=個人用タンク
+tile.blockPersonalEnergyStorageunknown.name=個人用エネルギータンク
+tile.blockPersonalEnergyStorageBatbox.name=個人用バットボックス
+tile.blockPersonalEnergyStorageMFE.name=個人用MFE
+tile.blockPersonalEnergyStorageMFSU.name=個人用MFSU
+tile.blockPersonalLocalMarket.name=ローカルマーケット
+tile.blockPersonalGlobalMarket.name=グローバルマーケット
+tile.blockIridiumStone.name=イリジウムの石
+
+//item
+//Cables
+item.itemCable.name=被膜なしケーブル
+item.itemCableI.name=銅のケーブル
+item.itemGoldCable.name=金のケーブル
+item.itemGoldCableI.name=金の絶縁ケーブル
+item.itemGoldCableII.name=金の2倍絶縁ケーブル
+item.itemIronCable.name=高圧用のケーブル
+item.itemIronCableI.name=高圧用の絶縁ケーブル
+item.itemIronCableII.name=高圧用の2倍絶縁ケーブル
+item.itemIronCableIII.name=高圧用の4倍絶縁ケーブル
+item.itemTinCable.name=超低圧用のケーブル
+item.itemGlassCable.name=グラスファイバーケーブル
+item.itemDetectorCable.name=EU検出ケーブル
+item.itemSplitterCable.name=EU遮断ケーブル
+item.itemBronzeCable.name=ブロンズケーブル
+item.itemBronzeCableI.name=絶縁ブロンズケーブル
+item.itemBronzeCableII.name=2倍絶縁ブロンズケーブル
+item.itemPlasmaCable.name=プラズマケーブル
+
+//Batteries
+item.itemBatSU.name=使いきり電池
+item.itemBatRE.name=充電式電池
+item.itemBatCrystal.name=エナジークリスタル
+item.itemBatLamaCrystal.name=ラポトロンクリスタル
+item.itemPESD.name=PESD
+item.quantumAccumulator.name=量子アキュムレータ
+item.bigQuantumAccumulator.name=大量子アキュムレータ
+
+//Crops
+item.itemCropanalyzer.name=作物分析機
+item.itemCropSeed.name=種袋
+item.cropSeedUn.name=不明な種
+item.cropSeedInvalid.name=種のデータがない...バグかも？
+item.cropItem.name=%s 作物の種
+item.itemCrop.name=Crop Sticks
+item.itemWeedEx.name=除草剤
+item.itemCellHydrant.name=水和セル
+item.itemTerraWart.name=テラウォート
+
+//Coffee
+item.coffee.name=コーヒー
+item.coffeeCold.name=コールドコーヒー
+item.coffeeDark.name=ブラックコーヒー
+
+//Tea
+item.ItemTeas.name=ティーアイテム
+item.itemColdTea.name=コールドティー
+item.itemBlackTea.name=ブラックティー
+item.itemTea.name=ホットティー
+item.itemIceTea.name=アイスティー
+
+//Misc
+item.itemDynamites.name=ダイナマイトアイテム
+item.itemDynamite.name=ダイナマイト
+item.itemDynamiteSticky.name=粘着ダイナマイト
+item.itemToolbox.name=道具箱
+item.itemFilledToolbox.name=ツールボックス
+item.itemCarbonBox.name=ナノツールボックス
+item.itemCarbonBoxFilled.name=ナノツールボックス
+item.itemIridiumBox.name=量子ツールボックス
+item.itemIridiumBoxFilled.name=量子ツールボックス
+item.itemNoUse.name=使用禁止
+item.itemMisc.name=その他のアイテム
+item.itemHarz.name=樹脂
+
+//Coins
+item.itemCoins.name=コインアイテム
+item.itemIndustrialCoin.name=産業用クレジット
+item.itemIndustrialCoinX1.name=産業用クレジット
+item.itemIndustrialCoinX2.name=産業用クレジット
+item.itemIndustrialCoinX3.name=産業用クレジット
+item.itemIndustrialCoinX4.name=産業用クレジット
+item.itemIndustrialCoinX5.name=産業用クレジット
+
+//FuelCans
+item.itemFuelCans.name=燃料缶アイテム
+item.itemFuelCanEmpty.name=空の燃料缶
+item.itemFuelCan.name=燃料缶
+item.itemTinCanFilled.name=食料缶詰
+
+//Misc Items
+item.itemScrapbox.name=スクラップボックス
+item.itemDoorAlloy.name=強化ドア
+
+//Cells
+item.itemCellEmpty.name=空のセル
+item.itemCellWater.name=水セル
+item.itemCellLava.name=溶岩セル
 
 tile.smallRFConverter.name=低圧用RF変換器
 tile.medRFConverter.name=中圧用RF変換器
@@ -106,7 +279,7 @@ tile.smallEUConverter.name=低圧用EU変換器
 tile.medEUConverter.name=中圧用EU変換器
 tile.highEUConverter.name=高圧用EU変換器
 
-tile.basicTurbine.name=基本蒸気タービン
+
 
 
 item.itemNightvisionGoggles.name=暗視ゴーグル
@@ -144,7 +317,7 @@ item.itemArmorNuclearCombindedJetpack.name=複合型原子力ジェットパッ�
 item.itemQuantumArmorJetpack.name=クァンタムスーツボディジェットプレート
 
 item.itemDebug.name=デバッガー
-item.itemToolbox.name=道具箱
+
 item.itemToolHoe.name=電動クワ
 item.itemTreetapElectric.name=電動ツリータップ
 item.itemTreetap.name=ツリータップ
@@ -183,21 +356,19 @@ item.itemToolChainsaw.name=チェーンソー
 item.itemToolDDrill.name=ダイアモンドドリル
 item.itemToolDrill.name=採掘用ドリル
 item.itemRemote.name=遠隔起爆装置
-item.itemCropanalyzer.name=作物分析機
-item.itemDynamite.name=ダイナマイト
-item.itemDynamiteSticky.name=粘着ダイナマイト
+
+
 item.itemObscurator.name=オブスキュレーター
 
 item.itemCellAir.name=圧縮空気セル
-item.itemCellHydrant.name=水和セル
+
 item.itemCellWaterElectro.name=電解水セル
-item.itemCellWater.name=水セル
+
 item.itemCellBio.name=バイオセル
 item.itemCellBioRef.name=バイオ燃料セル
 item.itemCellCoal.name=水和石炭セル
 item.itemCellCoalRef.name=水和石炭燃料セル
-item.itemCellLava.name=溶岩セル
-item.itemCellEmpty.name=空のセル
+
 
 item.reactorCondensatorLap.name=ラピスラズリコンデンサー
 item.reactorCondensator.name=レッドストーンコンデンサー
@@ -313,27 +484,11 @@ item.padUpgrade.fieldExp1.name=基本フィールド拡張モジュール
 item.padUpgrade.fieldExp2.name=フィールド拡張モジュール
 item.padUpgrade.fieldExp3.name=上位フィールド拡張モジュール
 
-item.itemCable.name=被覆された銅ケーブル
-item.itemCableO.name=銅ケーブル
-item.itemGoldCable.name=金ケーブル
-item.itemGoldCableI.name=被覆された金ケーブル
-item.itemGoldCableII.name=2重被覆された金ケーブル
-item.itemIronCable.name=HV ケーブル
-item.itemIronCableI.name=被覆されたHV ケーブル
-item.itemIronCableII.name=2重被覆されたHV ケーブル
-item.itemIronCableIIII.name=4重被覆されたHV ケーブル
-item.itemGlassCable.name=グラスファイバーケーブル
-item.itemTinCable.name=錫ケーブル
-item.itemDetectorCable.name=EU 検出ケーブル
-item.itemSplitterCable.name=EU 遮断ケーブル
-item.itemBronzeCable.name=ブロンズケーブル
-item.itemBronzeCableI.name=被覆されたブロンズケーブル
-item.itemBronzeCableII.name=2重被覆されたブロンズケーブル
+
 
 item.itemScrap.name=スクラップ
 item.itemMatter.name=マター
 item.itemScrapMetal.name=スクラップメタル
-item.itemScrapbox.name=スクラップボックス
 
 item.itemScannerAdv.name=OV スキャナー
 item.itemScanner.name=OD スキャナー
@@ -379,7 +534,7 @@ item.itemObsidianBlade.name=黒曜石の切断刃
 item.itemFuelCoalCmpr.name=液体化石炭
 item.itemFuelPlantBall.name=植物の玉
 item.itemFuelPlantCmpr.name=圧縮された植物の玉
-item.itemHarz.name=樹脂
+
 item.itemRubber.name=ゴム
 item.itemPartPellet.name=CF ペレット
 
@@ -396,7 +551,7 @@ item.itemPartCarbonMesh.name=炭素メッシュ
 item.itemPartCarbonFibre.name=炭素繊維
 item.itemPartIndustrialDiamond.name=人工ダイヤモンド
 
-item.itemWeedEx.name=除草剤
+
 item.itemGrinPowder.name=グリンパウダー
 item.itemBarrel.name=樽
 item.itemHops.name=ホップ
@@ -406,17 +561,14 @@ item.coffee2.name=ホットコーヒー
 item.itemMugEmpty.name=空のマグカップ
 item.itemCoffeePowder.name=挽いたコーヒー豆
 item.itemCoffeeBeans.name=コーヒー豆
-item.itemTerraWart.name=テラウォート
+
 item.itemFertilizer.name=肥料
 item.itemSpecialFertilizer.name=Overgrowth Fertilizer
-item.cropItem.name=%s 作物の種
-item.cropSeedUn.name=不明な種
-item.cropSeedInvalid.name=無効な種です。バグかもしれません。
+
+
+
 item.itemTeaLeaf.name=茶葉
-item.itemColdTea.name=コールドティー
-item.itemBlackTea.name=ブラックティー
-item.itemIceTea.name=アイスティー
-item.itemTea.name=ホットティー
+
 item.beerBlack.name=暗黒物質X
 item.beerRum.name=糖蜜酒
 item.beerZero.name=ゼロ
@@ -458,11 +610,7 @@ item.itemTinCanFilled.name=食料缶詰
 item.itemFuelCan.name=燃料缶
 item.itemFuelCanEmpty.name=空の燃料缶
 
-item.itemBatRE.name=充電式電池
-item.itemBatRECharged.name=充電式電池
-item.itemBatSU.name=使いきり電池
-item.itemBatCrystal.name=エナジークリスタル
-item.itemBatLamaCrystal.name=ラポトロンクリスタル
+
 
 item.itemCarbonBoat.name=炭素繊維ボート
 item.itemRubberBoat.name=ゴムボート
