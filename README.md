@@ -1,0 +1,2 @@
+# ModTranslationPack
+MinecraftのMod翻訳リソースパック
