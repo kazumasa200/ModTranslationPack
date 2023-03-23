@@ -1,0 +1,925 @@
+tile.blockRubber.name=ゴムシート
+tile.blockRubSapling.name=ゴムの苗
+tile.blockRubWood.name=ゴムの原木
+tile.blockCrop.name=支柱
+
+tile.blockOreUran.name=ウラン鉱石
+tile.blockOreTin.name=錫鉱石
+tile.blockOreCopper.name=銅鉱石
+
+tile.blockScaffold.name=足場
+tile.blockIronScaffold.name=鉄の足場
+tile.blockITNT.name=工業用TNT
+tile.blockNuke.name=核爆弾
+tile.blockHarz.name=樹脂シート
+
+tile.blockFoam.name=CF
+tile.blockFenceIron.name=鉄の柵
+tile.blockAlloyGlass.name=強化ガラス
+tile.blockAlloy.name=強化石材
+tile.blockMetalCopper.name=銅ブロック
+tile.blockMetalTin.name=錫ブロック
+tile.blockMetalBronze.name=青銅ブロック
+tile.blockMetalUranium.name=ウランブロック
+
+tile.blockLuminator.name=ルミネーター
+tile.blockLuminatorMultiPart.name=ルミネーター
+tile.blockMiningPipe.name=採掘パイプ
+tile.blockMiningTip.name=採掘パイプ
+tile.blockMachine.name=マシンブロック
+tile.blockAdvMachine.name=上位マシンブロック
+
+tile.blockBatBox.name=BatBox
+tile.blockMFE.name=MFE
+tile.blockMFSU.name=MFSU
+tile.blockBatteryBox.name=バッテリーボックス
+
+tile.blockTransformerLV.name=低圧変圧器
+tile.blockTransformerMV.name=中圧変圧器
+tile.blockTransformerHV.name=高圧変圧器
+tile.blockTransformerEV.name=超高圧変圧器
+tile.blockAdjustableTranformer.name=可変変圧器
+tile.blockCreativeStorage.name=クリエイティブ用蓄電機
+
+tile.chargePadLV.name=静電気チャージパッド
+tile.chargePadMV.name=クリスタライザーチャージパッド
+tile.chargePadHV.name=ラポトロニックチャージパッド
+tile.chargePadNuclear.name=フィッションチャージパッド
+
+tile.blockGenerator.name=火力発電機
+tile.blockGeoGenerator.name=地熱発電機
+tile.blockWaterGenerator.name=水力発電機
+tile.blockSolarGenerator.name=ソーラーパネル
+tile.blockWindGenerator.name=風力発電機
+tile.blockNuclearReactor.name=原子炉
+tile.blockSteamReactor.name=蒸気反応器
+tile.blockReactorChamber.name=原子炉チャンバー
+tile.blockSteamChamber.name=蒸気反応器チャンバー
+tile.blockSolarLV.name=低圧ソーラーパネル
+tile.blockSolarMV.name=中圧ソーラーパネル
+tile.blockSolarHV.name=高圧ソーラーパネル
+tile.blockWaterMillLV.name=低圧水力発電機
+tile.blockWaterMillMV.name=中圧水力発電機
+tile.blockWaterMillHV.name=高圧水力発電機
+
+tile.blockIronFurnace.name=鉄かまど
+tile.blockElecFurnace.name=電気かまど
+tile.blockMacerator.name=粉砕機
+tile.blockExtractor.name=抽出機
+tile.blockCompressor.name=圧縮機
+tile.blockCanner.name=缶詰装置
+tile.blockMiner.name=採掘機
+tile.blockPump.name=ポンプ
+tile.blockMagnetizer.name=磁気発生装置
+tile.blockElectrolyzer.name=電解水精製装置
+tile.blockRecycler.name=リサイクラー
+tile.blockInduction.name=誘導加熱かまど
+tile.blockMatter.name=マター製造機
+tile.blockTerra.name=テラフォーマー
+tile.blockTeleporter.name=テレポーター
+tile.blockTesla.name=テスラコイル
+tile.blockCropmatron.name=農薬散布機
+tile.blockSingularity.name=応力特異型圧縮機
+tile.blockCentrifug.name=遠心分離機
+tile.blockRotary.name=回転式粉砕機
+tile.blockCharged.name=帯電電解水精製装置
+tile.blockVacuum.name=真空缶詰装置
+tile.blockCompacting.name=圧縮式リサイクラー
+tile.blockElectricEnchanter.name=電動エンチャント台
+tile.blockOreScanner.name=鉱石スキャナー
+tile.blockCropScanner.name=作物スキャナー
+tile.blockReactorPlanner.name=原子炉シュミレーター
+tile.blockSoundBeacon.name=サウンドビーコン
+tile.blockUraniumEnricher.name=ウラン濃縮機
+tile.blockCropHarvester.name=作物刈り取り機
+
+tile.blockPersonalChest.name=個人用チェスト
+tile.blockPersonalTrader.name=アイテム交換器
+tile.blockPersonalTraderEnergy.name=エネルギー交換器
+tile.blockPersonalTraderFluid.name=液体交換器
+
+tile.smallRFConverter.name=低圧用RF変換器
+tile.medRFConverter.name=中圧用RF変換器
+tile.HighRFConverter.name=高圧用RF変換器
+
+tile.smallEUConverter.name=低圧用EU変換器
+tile.medEUConverter.name=中圧用EU変換器
+tile.highEUConverter.name=高圧用EU変換器
+
+tile.basicTurbine.name=基本蒸気タービン
+
+
+item.itemNightvisionGoggles.name=暗視ゴーグル
+item.itemArmorHazmatLeggings.name=防護レギンス
+item.itemArmorHazmatChestplate.name=防護チェストプレート
+item.itemArmorHazmatHelmet.name=防護ヘルメット
+item.itemStaticBoots.name=静電気発電ブーツ
+item.itemSolarHelmet.name=ソーラーヘルメット
+item.itemArmorLappack.name=ラップパック
+item.itemArmorCFPack.name=CF バックパック
+item.itemArmorQuantumBoots.name=クァンタムスーツブーツ
+item.itemArmorQuantumLegs.name=クァンタムスーツレギンス
+item.itemArmorQuantumChestplate.name=クァンタムスーツボディアーマー
+item.itemArmorQuantumHelmet.name=クァンタムスーツヘルメット
+item.itemArmorNanoBoots.name=ナノスーツブーツ
+item.itemArmorNanoLegs.name=ナノスーツレギンス
+item.itemArmorNanoChestplate.name=ナノスーツボディアーマー
+item.itemArmorNanoHelmet.name=ナノスーツヘルメット
+item.itemArmorAlloyChestplate.name=コンポジットベスト
+item.itemArmorAlloyHelmet.name=コンポジットヘルメット
+item.itemArmorAlloyLeggings.name=コンポジットレギンス
+item.itemArmorAlloyBoots.name=コンポジットブーツ
+item.itemArmorBatpack.name=バットパック
+item.itemArmorBronzeBoots.name=ブロンズのブーツ
+item.itemArmorBronzeLegs.name=ブロンズのレギンス
+item.itemArmorBronzeChestplate.name=ブロンズのチェストプレート
+item.itemArmorBronzeHelmet.name=ブロンズのヘルメット
+item.itemArmorJetpackElectric.name=電動ジェットパック
+item.itemArmorJetpack.name=ジェットパック
+item.itemArmorRubBoots.name=ゴムブーツ
+item.itemAdvancedSolarHelmet.name=上位型ソーラーヘルメット
+item.itemArmorJetpackNuclear.name=原子力ジェットパック
+item.itemArmorCombinedJetpack.name=複合型ジェットパック
+item.itemArmorNuclearCombindedJetpack.name=複合型原子力ジェットパック
+item.itemQuantumArmorJetpack.name=クァンタムスーツボディジェットプレート
+
+item.itemDebug.name=デバッガー
+item.itemToolbox.name=道具箱
+item.itemToolHoe.name=電動クワ
+item.itemTreetapElectric.name=電動ツリータップ
+item.itemTreetap.name=ツリータップ
+item.itemFoamSprayer.name=CF スプレー
+item.itemFreq.name=周波数送信機
+item.itemToolWrenchElectric.name=電動レンチ
+item.itemNanoSaber.name=ナノセイバー
+item.itemNanoSaberActive.name=ナノセイバー
+item.itemToolCutter.name=カッター
+item.itemToolPainterWhite.name=白色ペインター
+item.itemToolPainterOrange.name=オレンジ色ペインター
+item.itemToolPainterMagenta.name=赤紫色ペインター
+item.itemToolPainterCloud.name=空色ペインター
+item.itemToolPainterYellow.name=黄色ペインター
+item.itemToolPainterLime.name=黄緑色ペインター
+item.itemToolPainterPink.name=ピンク色ペインター
+item.itemToolPainterDrakGrey.name=灰色ペインター
+item.itemToolPainterLightGrey.name=薄灰色ペインター
+item.itemToolPainterCyan.name=水色ペインター
+item.itemToolPainterPurple.name=紫色ペインター
+item.itemToolPainterBlue.name=青色ペインター
+item.itemToolPainterBrown.name=茶色ペインター
+item.itemToolPainterGreen.name=緑色ペインター
+item.itemToolPainterRed.name=赤色ペインター
+item.itemToolPainterBlack.name=黒色ペインター
+item.itemToolPainter.name=ペインター
+item.itemToolMeter.name=EUリーダー
+item.itemToolWrench.name=レンチ
+item.itemToolBronzeHoe.name=ブロンズのクワ
+item.itemToolBronzeSpade.name=ブロンズのシャベル
+item.itemToolBronzeSword.name=ブロンズの剣
+item.itemToolBronzeAxe.name=ブロンズのオノ
+item.itemToolBronzePickaxe.name=ブロンズのツルハシ
+item.itemToolMiningLaser.name=マイニングレーザー
+item.itemToolChainsaw.name=チェーンソー
+item.itemToolDDrill.name=ダイアモンドドリル
+item.itemToolDrill.name=採掘用ドリル
+item.itemRemote.name=遠隔起爆装置
+item.itemCropanalyzer.name=作物分析機
+item.itemDynamite.name=ダイナマイト
+item.itemDynamiteSticky.name=粘着ダイナマイト
+item.itemObscurator.name=オブスキュレーター
+
+item.itemCellAir.name=圧縮空気セル
+item.itemCellHydrant.name=水和セル
+item.itemCellWaterElectro.name=電解水セル
+item.itemCellWater.name=水セル
+item.itemCellBio.name=バイオセル
+item.itemCellBioRef.name=バイオ燃料セル
+item.itemCellCoal.name=水和石炭セル
+item.itemCellCoalRef.name=水和石炭燃料セル
+item.itemCellLava.name=溶岩セル
+item.itemCellEmpty.name=空のセル
+
+item.reactorCondensatorLap.name=ラピスラズリコンデンサー
+item.reactorCondensator.name=レッドストーンコンデンサー
+item.reactorReflectorThick.name=圧縮型中性子反射器
+item.reactorReflector.name=中性子反射器
+item.reactorHeatpack.name=加熱セル
+item.reactorVent.name=排熱器
+item.reactorVentCore.name=原子炉排熱器
+item.reactorVentGold.name=高性能排熱器
+item.reactorVentDiamond.name=上位型排熱器
+item.reactorSteamVent.name=排気器
+item.reactorSteamVentCore.name=原子炉排気器
+item.reactorSteamVentGold.name=高性能排気器
+item.reactorSteamVentDiamond.name=上位型排気器
+item.reactorElectricVent.name=電動排熱器
+item.reactorElectricVentCore.name=電動原子炉排熱器
+item.reactorElectricVentGold.name=電動高性能排熱器
+item.reactorElectricVentDiamond.name=電動上位型排熱器
+item.reactorVentSpread.name=広域型排熱器
+item.reactorHeatSwitch.name=熱交換器
+item.reactorHeatSwitchCore.name=原子炉熱交換器
+item.reactorHeatSwitchSpread.name=広域型熱交換器
+item.reactorHeatSwitchDiamond.name=上位型熱交換器
+item.reactorPlating.name=原子炉装甲
+item.reactorPlatingExplosive.name=抑制型原子炉装甲
+item.reactorPlatingHeat.name=耐熱型原子炉装甲
+item.reactorCoolantSimple.name=10k 冷却セル
+item.reactorCoolantTriple.name=30k 冷却セル
+item.reactorCoolantSix.name=60k 冷却セル
+item.reactorIsotopeCell.name=劣化ウラン同位体燃料棒
+item.itemCellUranEnriched.name=再濃縮ウラン燃料棒
+item.itemCellUranEmpty.name=劣化ウラン燃料棒
+item.reactorUraniumSimple.name=ウラン燃料帽
+item.reactorUraniumDual.name=デュアルウラン燃料棒
+item.reactorUraniumQuad.name=クアッドウラン燃料棒
+item.reactorUraniumEnderPearlSimple.name=エンダーパール再濃縮ウラン燃料棒
+item.reactorUraniumEnderPearlDual.name=エンダーパールデュアル再濃縮ウラン燃料棒
+item.reactorUraniumEnderPearlQuad.name=エンダーパールクアッド再濃縮ウラン燃料棒
+item.reactorUraniumRedstoneSimple.name=レッドストーン再濃縮ウラン燃料棒
+item.reactorUraniumRedstoneDual.name=レッドストーンデュアル再濃縮ウラン燃料棒
+item.reactorUraniumRedstoneQuad.name=レッドストーンクアッド再濃縮ウラン燃料棒
+item.reactorUraniumBlazeSimple.name=ブレイズパウダー再濃縮ウラン燃料棒
+item.reactorUraniumBlazeDual.name=ブレイズパウダーデュアル再濃縮ウラン燃料棒
+item.reactorUraniumBlazeQuad.name=ブレイズパウダークアッド再濃縮ウラン燃料棒
+item.reactorUraniumNetherStarSimple.name=ネザースター再濃縮ウラン燃料棒
+item.reactorUraniumNetherStarDual.name=ネザースターデュアル再濃縮ウラン燃料棒
+item.reactorUraniumNetherStarQuad.name=ネザースタークアッド再濃縮ウラン燃料棒
+item.reactorUraniumCharcoalSimple.name=木炭再濃縮ウラン燃料棒
+item.reactorUraniumCharcoalDual.name=木炭デュアル再濃縮ウラン燃料棒
+item.reactorUraniumCharcoalQuad.name=木炭クアッド再濃縮ウラン燃料棒
+
+item.itemDepletedRedstoneEnrichedUraniumCell.name=レッドストーン劣化ウラン同位体燃料棒
+item.itemCellRedstoneEnrichedUranEmpty.name=レッドストーン劣化ウラン燃料棒
+item.itemCellRedstoneUranEnriched.name=レッドストーン再濃縮ウラン燃料棒
+item.itemDepletedBlazeEnrichedUraniumCell.name=ブレイズパウダー劣化ウラン同位体燃料棒
+item.itemCellBlazeEnrichedUranEmpty.name=ブレイズパウダー劣化ウラン燃料棒
+item.itemCellBlazeUranEnriched.name=ブレイズパウダー最濃縮ウラン燃料棒
+item.itemDepletedEnderPearlEnrichedUraniumCell.name=エンダーパール劣化ウラン同位体燃料棒
+item.itemCellEnderPearlEnrichedUranEmpty.name=エンダーパール劣化ウラン燃料棒
+item.itemCellEnderPearlUranEnriched.name=エンダーパール入再濃縮ウラン燃料棒
+item.itemDepletedNetherStarEnrichedUraniumCell.name=ネザースター劣化ウラン同位体燃料棒
+item.itemCellNetherStarEnrichedUranEmpty.name=ネザースター劣化ウラン燃料棒
+item.itemCellNetherStarUranEnriched.name=ネザースター再濃縮ウラン燃料棒
+item.itemDepletedCharcoalEnrichedUraniumCell.name=木炭劣化ウラン同位体燃料棒
+item.itemCellCharcoalEnrichedUranEmpty.name=木炭劣化ウラン燃料棒
+item.itemCellCharcoalUranEnriched.name=木炭再濃縮ウラン燃料棒
+
+item.itemTFBP.name=TFBP - 空
+item.itemTFBPFlatification.name=TFBP - 平地化
+item.itemTFBPDesertification.name=TFBP - 砂漠化
+item.itemTFBPChilling.name=TFBP - 寒冷化
+item.itemTFBPIrrigation.name=TFBP - 灌漑
+item.itemTFBPCultivation.name=TFBP - 耕作地
+item.itemTFBPMushroom.name=TFBP - キノコ
+item.itemTerraformerBiomeBlueprint.name=TFBP バイオーム - 空
+item.itemBiomeBPCultivation.name=TFBP バイオーム - 耕作地
+item.itemBiomeBPDesertification.name=TFBP Biome - 砂漠化
+item.itemBiomeBPForestification.name=TFBP Biome - 森林化
+item.itemBiomeBPIrrigation.name=TFBP Biome - 灌漑
+item.itemBiomeBPMushroom.name=TFBP バイオーム - キノコ
+item.itemBiomeBPUndergrowth.name=TFBP バイオーム - 密林
+item.itemBiomeBPChilling.name=TFBP バイオーム - 寒冷化
+
+item.overclockerUpgrade.name=オーバークロックアップグレード
+item.transformerUpgrade.name=変圧アップグレード
+item.energyStorageUpgrade.name=蓄電アップグレード
+item.redstoneSensitivityUpgrade.name=レッドストーン感度アップグレード
+item.redstoneInverterUpgrade.name=レッドストーン反転アップグレード
+item.basicItemImportUpgrade.name=基本搬入アップグレード
+item.itemImportUpgrade.name=搬入アップグレード
+item.basicItemExportUpgrade.name=基本搬出アップグレード
+item.itemExportUpgrade.name=搬出アップグレード
+item.mufflerUpgrade.name=消音アップグレード
+item.muteUpgrade.name=完全消音アップグレード
+item.expCollectorUpgrade.name=経験値収集アップグレード
+item.efficencyUpgrade.name=効率強化アップグレード
+item.energyMultiplierUpgrade.name=蓄電倍率アップグレード
+item.creativeUpgrade.name=クリエイティブアップグレード
+item.loudnessUpgrade.name=音量増加アップグレード
+item.itemUpgradeContainer.name=コンテナアップグレード
+
+
+item.upgradeKit.crystalizor.name=クリスタライザーアップグレードキット
+item.upgradeKit.mfs.name=MFSU アップグレードキット
+item.upgradeKit.lapotronic.name=ラポトロニックアップグレードキット
+item.upgradeKit.fission.name=フィッションアップグレードキット
+item.padUpgrade.damage.name=ダメージ変換モジュール
+item.padUpgrade.drain.name=吸収変換モジュール
+item.padUpgrade.proximity.name=近接充電モジュール
+item.padUpgrade.widebad.name=広域充電モジュール
+item.padUpgrade.armorPriority.name=アーマー特化モジュール
+item.padUpgrade.fieldExp1.name=基本フィールド拡張モジュール
+item.padUpgrade.fieldExp2.name=フィールド拡張モジュール
+item.padUpgrade.fieldExp3.name=上位フィールド拡張モジュール
+
+item.itemCable.name=被覆された銅ケーブル
+item.itemCableO.name=銅ケーブル
+item.itemGoldCable.name=金ケーブル
+item.itemGoldCableI.name=被覆された金ケーブル
+item.itemGoldCableII.name=2重被覆された金ケーブル
+item.itemIronCable.name=HV ケーブル
+item.itemIronCableI.name=被覆されたHV ケーブル
+item.itemIronCableII.name=2重被覆されたHV ケーブル
+item.itemIronCableIIII.name=4重被覆されたHV ケーブル
+item.itemGlassCable.name=グラスファイバーケーブル
+item.itemTinCable.name=錫ケーブル
+item.itemDetectorCable.name=EU 検出ケーブル
+item.itemSplitterCable.name=EU 遮断ケーブル
+item.itemBronzeCable.name=ブロンズケーブル
+item.itemBronzeCableI.name=被覆されたブロンズケーブル
+item.itemBronzeCableII.name=2重被覆されたブロンズケーブル
+
+item.itemScrap.name=スクラップ
+item.itemMatter.name=マター
+item.itemScrapMetal.name=スクラップメタル
+item.itemScrapbox.name=スクラップボックス
+
+item.itemScannerAdv.name=OV スキャナー
+item.itemScanner.name=OD スキャナー
+item.rangedScanner.OD.name=遠距離 OD スキャナー
+item.rangedScanner.OV.name=遠距離 OV スキャナー
+item.bigRangedScanner.OD.name=超遠距離 OD スキャナー
+item.bigRangedScanner.OV.name=超遠距離 OV スキャナー
+item.LowOreValueScanner.name=低圧 OVD スキャナー
+item.MedOreValueScanner.name=中圧 OVD スキャナー
+item.HighOreValueScanner.name=高圧 OVD スキャナー
+item.settedOreValueScanner.name=可変圧 OVD スキャナー
+
+item.itemIngotUran.name=精錬ウランインゴット
+item.itemIngotAlloy.name=合金インゴット
+item.itemIngotBronze.name=ブロンズインゴット
+item.itemIngotTin.name=錫インゴット
+item.itemIngotCopper.name=銅インゴット
+item.itemIngotAdvIron.name=精錬鉄インゴット
+item.itemIngotSilver.name=銀インゴット
+item.itemRedstoneEnrichedUranium.name=レッドストーン入り再濃縮ウランインゴット
+item.itemBlazeEnrichedUranium.name=ブレイズ入り再濃縮ウランインゴット
+item.itemEnderPearlEnrichedUranium.name=エンダーパール入り再濃縮ウランインゴットt
+item.itemNetherStarEnrichedUranium.name=ネザースター入り再濃縮ウランインゴット
+item.itemCharcoalEnrichedUranium.name=木炭入り再濃縮ウランインゴット
+
+item.itemDustIronSmall.name=鉄の粉の粒
+item.itemDustBronze.name=ブロンズの粉
+item.itemDustTin.name=錫の粉
+item.itemDustCopper.name=銅の粉
+item.itemDustGold.name=金の粉
+item.itemDustIron.name=鉄の粉
+item.itemDustCoal.name=石炭の粉
+item.itemDustClay.name=粘土の粉
+item.itemDustSilver.name=銀の粉
+item.itemFuelCoalDust.name=水和石炭の粉
+item.itemObsidianDust.name=黒曜石の粉
+item.itemFlour.name=小麦粉
+
+item.scrapMetalChunk.name=スクラップメタルの塊
+item.scrapMetalBlade.name=スクラップメタルの切断刃
+item.itemRawObsidianBlade.name=生の黒曜石の切断刃
+item.itemObsidianBlade.name=黒曜石の切断刃
+item.itemFuelCoalCmpr.name=液体化石炭
+item.itemFuelPlantBall.name=植物の玉
+item.itemFuelPlantCmpr.name=圧縮された植物の玉
+item.itemHarz.name=樹脂
+item.itemRubber.name=ゴム
+item.itemPartPellet.name=CF ペレット
+
+item.itemCoin.name=通貨
+item.itemDoorAlloy.name=強化ドア
+
+item.itemOreUran.name=ウラン鉱石
+item.itemOreIridium.name=イリジウム鉱石
+item.itemPartIridium.name=強化イリジウム板
+item.itemPartCoalBall.name=炭素球
+item.itemPartCoalBlock.name=圧縮された炭素球
+item.itemPartCoalChunk.name=炭素塊
+item.itemPartCarbonMesh.name=炭素メッシュ
+item.itemPartCarbonFibre.name=炭素繊維
+item.itemPartIndustrialDiamond.name=人工ダイヤモンド
+
+item.itemWeedEx.name=除草剤
+item.itemGrinPowder.name=グリンパウダー
+item.itemBarrel.name=樽
+item.itemHops.name=ホップ
+item.coffee0.name=コールドコーヒー
+item.coffee1.name=ブラックコーヒー
+item.coffee2.name=ホットコーヒー
+item.itemMugEmpty.name=空のマグカップ
+item.itemCoffeePowder.name=挽いたコーヒー豆
+item.itemCoffeeBeans.name=コーヒー豆
+item.itemTerraWart.name=テラウォート
+item.itemFertilizer.name=肥料
+item.itemSpecialFertilizer.name=Overgrowth Fertilizer
+item.cropItem.name=%s 作物の種
+item.cropSeedUn.name=不明な種
+item.cropSeedInvalid.name=無効な種です。バグかもしれません。
+item.itemTeaLeaf.name=茶葉
+item.itemColdTea.name=コールドティー
+item.itemBlackTea.name=ブラックティー
+item.itemIceTea.name=アイスティー
+item.itemTea.name=ホットティー
+item.beerBlack.name=暗黒物質X
+item.beerRum.name=糖蜜酒
+item.beerZero.name=ゼロ
+item.beerSolidRatio0.name=水っぽい
+item.beerSolidRatio1.name=クリア
+item.beerSolidRatio2.name=薄い
+item.beerSolidRatio3.name=
+item.beerSolidRatio4.name=強めの
+item.beerSolidRatio5.name=濃厚な
+item.beerSolidRatio6.name=特濃の
+item.beerSolidRatio7.name=暗黒物質X
+item.beerHopsRatio0.name=スープ
+item.beerHopsRatio1.name=ノンアルコール
+item.beerHopsRatio2.name=ホワイト
+item.beerHopsRatio3.name=
+item.beerHopsRatio4.name=ダーク
+item.beerHopsRatio5.name=フル
+item.beerHopsRatio6.name=ブラック
+item.beerHopsRatio7.name=暗黒物質X
+item.beerTimeRatio0.name=仕込液
+item.beerTimeRatio1.name=若い酒
+item.beerTimeRatio2.name=ビール
+item.beerTimeRatio3.name=エール
+item.beerTimeRatio4.name=竜血酒
+item.beerTimeRatio5.name=暗黒物質X
+item.beerTimeRatio6.name=暗黒物質X
+item.beerTimeRatio7.name=暗黒物質X
+item.emptyBarrel.name=空の酒樽
+item.filledBarrel.name=%sL 入り酒樽
+
+item.itemPartCircuit.name=基本回路
+item.itemPartCircuitAdv.name=発展回路
+item.itemPartAlloy.name=合金板
+item.itemPartCarbonPlate.name=炭素板
+item.itemPartDCP.name=デンス銅板
+
+item.itemTinCan.name=空の缶
+item.itemTinCanFilled.name=食料缶詰
+item.itemFuelCan.name=燃料缶
+item.itemFuelCanEmpty.name=空の燃料缶
+
+item.itemBatRE.name=充電式電池
+item.itemBatRECharged.name=充電式電池
+item.itemBatSU.name=使いきり電池
+item.itemBatCrystal.name=エナジークリスタル
+item.itemBatLamaCrystal.name=ラポトロンクリスタル
+
+item.itemCarbonBoat.name=炭素繊維ボート
+item.itemRubberBoat.name=ゴムボート
+item.itemBrokenRubberBoat.name=傷ついたゴムボート
+item.itemElectricBoat.name=電動ボート
+
+item.itemCoolant.name=冷却液
+item.fluid.steam.name=蒸気
+fluid.coolant.name=冷却液
+fluid.steam.name=蒸気
+
+
+crop.Weed.name=雑草
+crop.Wheat.name=小麦
+crop.Pumpkin.name=カボチャ
+crop.Melon.name=スイカ
+crop.Dandelion.name=タンポポ
+crop.Rose.name=バラ
+crop.Blackthorn.name=黒バラ
+crop.Tulip.name=チューリップ
+crop.Cyazint.name=シアジンス
+crop.Venomilia.name=ヴェノミリア
+crop.Reed.name=アシ
+crop.Stickreed.name=樹液アシ
+crop.Cocoa.name=ココア
+crop.Ferru.name=フェルー
+crop.Aurelia.name=オーレリア
+crop.Redwheat.name=赤石小麦
+crop.NetherWart.name=ネザーウォート
+crop.TerraWart.name=テラウォート
+crop.Coffee.name=コーヒー豆
+crop.Hops.name=ホップ
+crop.Carrots.name=ニンジン
+crop.Potato.name=ジャガイモ
+crop.RedMushroom.name=赤キノコ
+crop.BrownMushroom.name=茶キノコ
+crop.Cacti.name=サボテン
+crop.Tea.name=茶
+
+
+container.vacuum.pressure.name=真空:
+container.singularity.pressure.name=圧力:
+container.rotary.speed.name=速度:
+container.matter.progress.name=進捗:
+container.matter.amplifier.name=効率増幅:
+container.induction.heat.name=発熱:
+container.Compacting.speed.name=速度:
+container.Centrifug.speed.name=速度:
+
+container.personalTrader.totalTrades0.name=実施済み
+container.personalTrader.totalTrades1.name=取引:
+container.personalTrader.want.name=要求:
+container.personalTrader.offer.name=提供:
+container.personalTrader.stock.name=在庫:
+container.personalTraderEnergy.paidFor.name=提供量: %1$s EU
+container.personalTraderFluid.paidFor.name=提供量: %1$s mB
+
+container.electricBlock.level.name=:パワーレベル
+
+container.electricBlock.output.name=出力: %1$s EU/t
+
+container.chargePad.maxIn.name=入力: %1$s EU/t
+
+container.reset.name=リセット
+
+container.batteryBox.noChange.name=電流が均一かない
+container.batteryBox.charging.name=充電時間: %s
+container.batteryBox.discharging.name=吸収時間: %s
+container.batteryBox.out.name=出力:
+
+container.cropAnalyzer0.name=不明
+container.cropAnalyzer.CropTier.name=作物レベル:
+container.cropAnalyzer.CropOwner.name=収穫者:
+container.cropAnalyzer.Growth.name=成長速度:
+container.cropAnalyzer.Gain.name=収穫量:
+container.cropAnalyzer.Resis.name=抵抗力:
+container.cropAnalyzer.Crop.name=%1$s - 成長度: %2$s 収穫物: %3$s 抵抗: %4$s
+container.cropAnalyzer.CropUnknowen.name=不明な作物
+
+container.nuclearJetpack.name=核分裂ジェットパック
+container.payExp.name=経験値を使う
+container.enchanterStart.name=開始
+
+container.energyStorageRedstoneMode0.name=レッドストーンの挙動: なし
+container.energyStorageRedstoneMode1.name=レッドストーンの挙動: 満タンの時、信号を出す
+container.energyStorageRedstoneMode2.name=レッドストーンの挙動: 部分的に電力が溜まった時、信号を出す
+container.energyStorageRedstoneMode3.name=レッドストーンの挙動: 電力が半分以上の時、信号を出す
+container.energyStorageRedstoneMode4.name=レッドストーンの挙動: 電力が半分以下の時、信号を出す
+container.energyStorageRedstoneMode5.name=レッドストーンの挙動: 空の時、信号を出す
+container.energyStorageRedstoneMode6.name=レッドストーンの挙動: 電力を出力しない
+container.energyStorageRedstoneMode7.name=レッドストーンの挙動: 満タンでない限り電力を出力しない
+
+container.batteryBoxMode0.name=バッテリーモード: 充電台モード
+container.batteryBoxMode1.name=バッテリーモード: バッテリーステーションモード
+container.batteryBoxMode2.name=バッテリーモード: BatBox モード
+container.batteryBoxNothing.name=何もしない
+container.batteryBoxEnergyMode0.name=エネルギーモード: 低電力モード
+container.batteryBoxEnergyMode1.name=エネルギーモード: 高電力モード
+container.batteryBoxEnergyMode2.name=エネルギーモード: パケット電力モード
+
+container.reactorplannerButton.sortbutton.name=整理
+container.reactorplannerButton.sortButtonAll.name=全ての構成部品
+container.reactorplannerButton.sortButtonFuel.name=燃料棒
+container.reactorplannerButton.sortButtonCooolant.name=冷却水セル
+container.reactorplannerButton.sortButtonCondensor.name=コンデンサー
+container.reactorplannerButton.sortButtonHeatPack.name=ヒートパック
+container.reactorplannerButton.sortButtonVent.name=排熱器
+container.reactorplannerButton.sortButtonVentSpread.name=通気口
+container.reactorplannerButton.sortButtonSwtich.name=熱交換器
+container.reactorplannerButton.sortButtonPlate.name=熱伝導メッキ
+container.reactorplannerButton.sortButtonRelection.name=中性子反射器
+container.reactorplannerButton.sortButtonIsotope.name=同位体燃料棒
+container.reactorplannerButton.reactor.name=原子炉
+container.reactorplannerButton.steamReactor.name=蒸気発生器
+container.reactorplannerButton.predictions.name=セットアップ予告
+container.reactorplannerButton.reactorSetup.name=セットアップ時の情報
+container.reactorplannerButton.activeReactorInfo.name=アクティブ時情報
+container.reactorplannerButton.itemInfo.name=コンポーネントの統計
+container.reactorplannerButton.setupName.name=セットアップ時
+container.reactorplannerButton.start.name=開始
+container.reactorplannerButton.stop.name=停止
+container.reactorplannerButton.compile.name=編集
+container.reactorplannerButton.reset.name=リセット
+container.reactorplannerButton.backup.name=バックアップ
+container.reactorplannerButton.restore.name=復元
+container.reactorplannerButton.clear.name=消去
+container.reactorplannerButton.pause.name=中断
+container.reactorplannerButton.run.name=実行
+container.reactorplannerButton.import.name=ロード
+container.reactorplannerButton.export.name=コピー
+
+container.reactorplannerInfo.replacedTimes.name=交換時間: %s
+container.reactorplannerInfo.startingHeat.name=加熱開始
+container.reactorplannerInfo.customTime.name=タイマー
+container.reactorplannerInfo.customSimSpeed.name=シムスピード
+container.reactorplannerInfo.expectedSteam.name=予測蒸気/t: %s
+container.reactorplannerInfo.totalSteam.name=合計蒸気量: %s mb
+container.reactorplannerInfo.totalHeat.name=合計加熱量: %s
+container.reactorplannerInfo.explosionEffect.name=爆発効果: %s
+container.reactorplannerInfo.efficeny.name=効率(EU): %1$s の内 %2$s
+container.reactorplannerInfo.isBreeder.name=核分裂: %s
+container.reactorplannerInfo.expectedHeat.name=予測加熱度: %s
+container.reactorplannerInfo.ventCooling.name=排熱器冷却度: %s
+container.reactorplannerInfo.reactorCooling.name=原子炉冷却度: %s
+container.reactorplannerInfo.excessCooling.name=過剰冷却度: %s
+container.reactorplannerInfo.excessHeat.name=過剰加熱度: %s
+container.reactorplannerInfo.producedSteam.name=生成済み蒸気: %s mB
+container.reactorplannerInfo.usedWater.name=使用済み水: %s mB
+container.reactorplannerInfo.reactorHeat.name=Core Heat: %s
+container.reactorplannerInfo.meltingHeat.name=融解熱: %s
+container.reactorplannerInfo.heatEffect.name=加熱効果率: %s
+container.reactorplannerInfo.SimulationTime.name=シムタイム: %s リアクタティック
+container.reactorplannerInfo.activeTime.name=作動中瞬間消費: %1$s の内 %2$s
+container.reactorplannerInfo.expectedEU.name=予測 EU/t: %s
+container.reactorplannerInfo.totalEU.name=合計 EU: %s
+container.reactorplannerInfo.heatCreated.name=生成熱量: %s
+container.reactorplannerInfo.heatPackHeat.name=ヒートパック: %s
+container.reactorplannerInfo.activeEU.name=作動中 EU/t: %s
+container.reactorplannerInfo.producedEU.name=発電 EU: %s
+container.reactorplannerInfo.noComponentSelected.name=構成部品が選択されていません
+
+container.reactorplannerAction.importFromItemSuccess.name=アイテムの追加設定に成功しました
+container.reactorplannerAction.importFromItemFail.name=アイテムの追加設定にしました
+container.reactorplannerAction.exportToItemSuccess.name=アイテムの追加設定に成功しました
+container.reactorplannerAction.exportToItemFail.name=アイテムの追加設定にしました
+container.reactorplannerAction.importSuccess.name=クリップボードから設定のロードに成功しました
+container.reactorplannerAction.importFail.name=クリップボードから設定のロードに失敗しました
+container.reactorplannerAction.exportedToClipboard.name=クリップボードに転送しました
+container.reactorplannerAction.decoderCreatingFailed.name=解読器の作成に失敗しました
+container.reactorplannerAction.lostData.name=データを紛失しました....
+container.reactorplannerAction.encoderNotOnServer.name=サーバーに暗号器が見つかりません
+container.reactorplannerAction.encoderFailed.name=暗号器は文章を暗号化できませんでした
+
+container.reactorplannerInfo.stat.HeatProduction.name=基本発熱量: %s
+container.reactorplannerInfo.stat.EnergyProduction.name=基本発電量: %s
+container.reactorplannerInfo.stat.SelfCooling.name=手動排熱量: %s
+container.reactorplannerInfo.stat.ReactorCooling.name=原子炉熱吸収量: %s
+container.reactorplannerInfo.stat.PartCooling.name=構成部品の熱冷却度: %s
+container.reactorplannerInfo.stat.PartChange.name=構成部品の熱伝達量: %s
+container.reactorplannerInfo.stat.ReactorChange.name=原子炉の熱伝達量: %s
+container.reactorplannerInfo.stat.HeatStorage.name=最大加熱: %s
+container.reactorplannerInfo.stat.ReactorMaxHeat.name=過剰な原子炉加熱: %s
+container.reactorplannerInfo.stat.ReactorEEM.name=爆発軽減度: %s
+container.reactorplannerInfo.stat.MaxDurability.name=最大ダメージ: %s
+container.reactorplannerInfo.stat.RodAmount.name=燃料棒合計数: %s
+container.reactorplannerInfo.stat.PulseAmount.name=内部パルス: %s
+container.reactorplannerInfo.stat.EnergyUsage.name=基本電力使用量: %s
+
+container.adjustableTransformerEUPerPacket.name=EU/パケット: %s
+container.adjustableTransformerPacketsPerTick.name=最大パケット/t: %s
+
+container.soundBeaconItem.name=アイテム
+container.soundBeaconTile.name=ブロック
+container.soundBeaconArmor.name=装備
+container.soundBeaconRange.name=効果範囲: %s ブロック
+container.soundBeaconEffect.name=効果: %s
+
+
+blockInfo.teleporterNoTarget.name=テレポーターに行き先が指定されていません
+blockInfo.teleporterTarget.name=行き先: ディメンション: %1$s, X座標: %2$s, Y座標: %3$s, Z座標: %4$s
+
+
+itemInfo.electricHeatVent.name=小型反応器の出力低下
+
+itemInfo.upgradeDirection.name=方向: %s
+itemInfo.upgradeOwner.name=所持者: %s
+itemInfo.setUpgradeDirection.name=側面を右クリックして反対方向に設定します%n側面を右にスニークして自分の向きに設定します
+itemInfo.setUpgradeOwner.name=サイドインベントリキー(&s)を押しながら右クリックして、所有者を設定します
+itemInfo.defineUpgradeOwner.name=設定後の所有者: %s
+itemInfo.defineDirection.name=設定後の方向: %s
+
+itemInfo.pressShiftInfo.name=%1$s Shift %2$sを押して追加情報を取得します
+itemInfo.pressShiftOreInfo.name=%1$s Shift %2$sを押して鉱石情報を取得します
+
+itemInfo.stickyTransmitterNotLinked.name=このダイナマイトはこの遠隔起爆装置にリンクされておらず、リンクを解除できません。
+itemInfo.stickyTransmitterLink.name=%s のダイナマイトにリンクしました
+itemInfo.clearFreqTransmitter.name=周波数送信機のリンクが解除されました
+itemInfo.setFreqTransmitter.name=周波数送信機がテレポーターにリンクしました
+itemInfo.targetEqualsEmitter.name=テレポーターに周波数送信機をリンクできません
+itemInfo.targetNotChanged.name=テレポートリンクは変更されていません。
+itemInfo.targetUpdated.name=テレポートリンクが確立されました。
+
+itemInfo.laserMode.name=レーザーモード: %s
+itemInfo.wrongLaserAim.name=マイニングレーザーの照準角度が急すぎます
+
+itemInfo.scannerLevel.name=スキャンレベル: %s
+itemInfo.scannerOres.name=鉱石スキャン:
+itemInfo.scannerResultValue.name=スキャン結果: このエリアの鉱石値は %s です
+itemInfo.scannerResultDensity.name=スキャン結果: このエリアの鉱石密度は %s です
+
+itemInfo.painterAutoRefillEnabled.name=ペインターの自動補充モードは有効です
+itemInfo.painterAutoRefillDisabled.name=ペインターの自動補充モードは無効です
+
+itemInfo.storedBlock.name=保管ブロック: %s
+itemInfo.storedBlockSide.name=保管されたマイクロブロック: %s
+
+itemInfo.upgradeStoredExp.name=保管された経験値: %s
+itemInfo.creativeOnly.name=クリエイティブのみ
+
+itemInfo.energyMeterMode.name=現在のモード: %s
+itemInfo.energyMeterModeSwitchHelp.name=モード切り替えキー(%s)を押しながら右クリックして、モードを変更します
+itemInfo.energyMeterModeChanged.name=変更後のモード: %s
+itemInfo.energyMeterNewMeasurment.name=新しく測定を開始します
+itemInfo.energyMeterNone.name=なし...
+itemInfo.energyMeterAverageEU.name=測定された電力[EU/t]：%1$s で %2$s の内 %3$s が余分 (平均 %4$s ティック以上)
+itemInfo.energyMeterSourceInfo.name=電力源出力バッファ: %s EU
+itemInfo.energyMeterSinkInfo.name=電力受容体の制限量: %s EU
+itemInfo.energyMeterConductorLoss.name=導体電力損失: %s EU
+itemInfo.energyMeterConductorLimit.name=導体電力限界: %s EU
+itemInfo.energyMeterTotalEmitted.name=測定された電力 [合計 EU]: ロードされてから %s EUを伝導しました
+itemInfo.energyMeterAveragePacket.name=測定されたパケット [EU/パケットカウント] %s ティック以上:
+itemInfo.energyMeterEUPacket.name=EU: %1$s カウント: %2$s
+itemInfo.energyMeterTotalPacket.name=測定されたパケット [EU/パケットカウント] ロードされてから:
+itemInfo.energyMeterTeleporterInfoEntity.name=エンティティのテレポーターの必要条件: 高さが %1$s: %2$s
+itemInfo.energyMeterTeleporterInfoCost.name=距離 %1$s ブロック: %2$s EU
+itemInfo.energyMeterTeleporterInfoCostDim.name=距離 %1$s ブロックとワールド切り替え: %2$s EU
+
+itemInfo.wrenchToWeak.name=ロスレスレンチモード操作に十分なエネルギーがありません
+itemInfo.losslessWrenchModeEnabled.name=ロスレスレンチモードは有効です
+itemInfo.losslessWrenchModeDisabled.name=ロスレスレンチモードは無効です
+itemInfo.wrenchPickSafe.name=安全ではないものにレンチは使えません
+
+itemInfo.steamVentWater.name=水保管量: %s
+itemInfo.steamVentHeat.name=熱消費量: %s
+itemInfo.steamVentSteam.name=蒸気生成量/t: %s
+
+itemInfo.jetpackHovermodeOn.name=ホバーモードは有効です
+itemInfo.jetpackHovermodeOff.name=ホバーモードは無効です
+itemInfo.jetpackAdvHoverModeOn.name=エクストリームホバーモードは有効です
+itemInfo.jetpackHovermodeForcedOff.name=無効なホバーモードです
+itemInfo.jetpackRocketModeForcedOff.naem=無効なロケットモードです
+itemInfo.jetpackRocketModeOn.name=ロケットモードは有効です
+itemInfo.jetpackRocketModeOff.name=ロケットモードは無効です
+itemInfo.nuclearJetpackReactorHeat.name=原子炉熱量: %1$s / %2$s
+itemInfo.nuclearJetpackCompDamage.name=原子炉構成部品の平均耐久性: %s
+itemInfo.nuclearJetpackRocketCharge.name=ロケットチャージ: %s
+itemInfo.rocketCharge.name=ロケットチャージ
+itemInfo.nuclearJetpackUsage.name=スネークしながら右クリックしてGUIを開きます%n%n原子炉構成部品の平均耐久性%nは、熱を受け伝導するすべての部品%nの正常性を意味します%n%n熱を伝導することができる原子炉構成部品がない場合、常に100%を示します%n%nモードスイッチキー+ブーストキーを押してロケットモードを有効にし、%nブーストキーを押したままにして充電します%n Altキー(キーバインド)を押して、充電を解除します
+itemInfo.jetpackArmor.name=装備: %s
+itemInfo.armorDurablity.name=耐久力: %1$s / %2$s
+itemInfo.boatCharge.name=充電: %s
+itemInfo.boatForce.name=エンジン回転数: %s
+
+itemInfo.cropAir.name=プレイヤー座標での大気の性質: %s
+itemInfo.cropHumidity.name=プレイヤー座標での湿度: %s
+itemInfo.cropNutrient.name=プレイヤー座標での栄養分: %s
+
+itemInfo.upgradeContainerStored.name=Shiftキーを押して、インストールされているアップグレードを確認します
+
+plannerInfo.HeatProduction.name=基本発熱量: %s
+plannerInfo.EnergyProduction.name=基本発電量: %s
+plannerInfo.SelfCooling.name=手動排熱量: %s
+plannerInfo.ReactorCooling.name=原子炉熱吸収量: %s
+plannerInfo.PartCooling.name=構成部品の熱冷却度: %s
+plannerInfo.PartChange.name=構成部品の熱伝達量: %s
+plannerInfo.ReactorChange.name=原子炉の熱伝達量: %s
+plannerInfo.HeatStorage.name=最大加熱: %s
+plannerInfo.ReactorMaxHeat.name=過剰な原子炉加熱: %s
+plannerInfo.ReactorEEM.name=爆発軽減度: %s
+plannerInfo.MaxDurability.name=最大ダメージ: %s
+
+
+laserMode.mining.name=採掘モード
+laserMode.low_focus.name=低焦点
+laserMode.long_range.name=長距離
+laserMode.horizontal.name=水平
+laserMode.super_heat.name=過熱
+laserMode.scatter.name=散乱
+laserMode.explosive.name=爆発
+
+measureMode.averageEU.name=平均測定
+measureMode.tileInfo.name=機能測定
+measureMode.totalEmitted.name=総放出測定
+measureMode.packetReading.name=パケット測定
+measureMode.totalPackets.name=総パケット測定
+
+
+achievement.acquireMatter=ピンクの塊
+achievement.acquireMatter.desc=マター製造機からマターを作り出す
+achievement.acquireRefinedIron=高品質の鉄
+achievement.acquireRefinedIron.desc=鉄を精錬し、精錬鉄を手に入れる
+achievement.acquire=ネバっとしたアレ
+achievement.acquireResin.desc=ツリータップを使い、樹脂をゴムの木から採取する
+achievement.buildBatBox=しまっとけ！
+achievement.buildBatBox.desc=Batboxを作る
+achievement.buildCable=エネルギー供給
+achievement.buildCable.desc=種類は何でもいいので、ケーブルを一つ作る
+achievement.buildChainsaw=木こりと殺し屋の道具
+achievement.buildChainsaw.desc=チェーンソウを作る
+achievement.buildCoalDiamond=輝き
+achievement.buildCoalDiamond.desc=炭素塊を圧縮しダイヤモンドを作る
+achievement.buildCompressor=圧搾開始
+achievement.buildCompressor.desc=圧縮機を作る
+achievement.buildDDrill=貴重なアップグレード
+achievement.buildDDrill.desc=採掘用ドリルをダイアモンドで強化する
+achievement.buildDrill=歯科検診
+achievement.buildDrill.desc=採掘用ドリルを作る
+achievement.buildElecFurnace=もっとホットな話題
+achievement.buildElecFurnace.desc=電気かまどを作る
+achievement.buildExtractor=森林資源の節約
+achievement.buildExtractor.desc=抽出機を作る
+achievement.buildGenerator=電気規格
+achievement.buildGenerator.desc=火力発電機を作る
+achievement.buildIndFurnace=究極の速さ
+achievement.buildIndFurnace.desc=誘導加熱かまどを作る
+achievement.buildMFE=倉庫拡張
+achievement.buildMFE.desc=MFEを作る
+achievement.buildMFS=過剰拡張
+achievement.buildMFS.desc=MFSUを作る
+achievement.buildMacerator=二つの問題
+achievement.buildMacerator.desc=粉砕機を作る
+achievement.buildMassFab=エネルギーの物質化
+achievement.buildMassFab.desc=マター製造機を作る
+achievement.buildMiningLaser=レーザータイム
+achievement.buildMiningLaser.desc=マイニングレーザーを作る
+achievement.buildQArmor=テクノロジーの頂点
+achievement.buildQArmor.desc=クアンタム装備のいずれかを作る
+achievement.buildTeleporter=空間歪曲移動法
+achievement.buildTeleporter.desc=テレポーターを作る
+achievement.buildTerraformer=世界を変えよう
+achievement.buildTerraformer.desc=テラフォーマーを作る
+achievement.compressUranium=放射性物質
+achievement.compressUranium.desc=ウランをを圧縮しウランインゴットを手に入れる
+achievement.dieFromOwnNuke=イワンのばか
+achievement.dieFromOwnNuke.desc=自分が点火した核爆弾で死ぬ
+achievement.killCreeperChainsaw=クリーパーvsチェーンソー
+achievement.killCreeperChainsaw.desc=チェーンソウでクリーパーを倒す
+achievement.killDragonMiningLaser=大したもんだ
+achievement.killDragonMiningLaser.desc=マイニングレーザーでエンダードラゴンを倒す
+achievement.mineOre=新発見
+achievement.mineOre.desc=銅、錫、ウランのいずれかを採掘する
+achievement.starveWithQHelmet=お腹と電池の関係
+achievement.starveWithQHelmet.desc=クアンタムヘルメットを被ったまま餓死する
+achievement.teleportFarAway=はるか彼方へ
+achievement.teleportFarAway.desc=テレポーターで、1km以上遠くへテレポートする
+achievement.terraformEndCultivation=最後の楽園
+achievement.terraformEndCultivation.desc=ジ・エンドにテラフォーマーを置いて地形を作り変える
+
+itemGroup.IC2=IndustrialCraft 2
+
+potion.radiation.name=被爆
+
+death.attack.electricity=%1$s は感電した
+death.attack.nuke=%1$s は核攻撃を受けた
+death.attack.radiation=%1$s は被爆した
+death.attack.electricity.player=%1$s は %2$s によって感電した
+death.attack.nuke.player=%1$s は %2$s によって核攻撃を受けた
+death.attack.radiation.player=%1$s は %2$s によって被爆した
+
+
+gate.energyStorageEmpty.name=空の蓄電機
+gate.energyStorageHasEnergy.name=蓄電機にはエネルギーが貯められています
+gate.energyStorageSpace.name=電力のための空間
+gate.energyStorageFull.name=蓄電機は満タンです
+gate.energyStorageItemEmptyCharge.name=電池が空のアイテムを充電しています
+gate.energyStorageItemPartlyCharge.name=電池が中途半端にあるアイテムを充電しています
+gate.energyStorageItemFullyCharged.name=電池が満タンのアイテムを充電しています
+gate.energyStorageDrainingEmptyItem.name=電池が空のアイテムを放電しています
+gate.energyStorageDrainingChargedItem.name=電池が中途半端にあるアイテムを放電しています
+gate.energyStorageDrainingFullyChargedItem.name=電池が満タンのアイテムを放電しています
+
+gate.conductorEnergyFlowing.name=電気が流れています
+gate.conductorEnergyNotFlowing.name=電気が流れていません
+
+gate.hasFuel.name=燃料があります
+gate.noFuel.name=燃料がありません
+
+gate.machineOn.name=電源が入っています
+gate.machineOff.name=電源が切れています
+
+gate.fullSpeed.name=完全な速度上昇をしています
+gate.notFullSpeed.name=完全な速度上昇をしていません
+
+gate.massFabAmplifier.name=効率増幅しています
+gate.massFabNoAmplifier.name=効率増幅していません
+
+wailaInfo.requireEUReader.name=データを取得するためにホットバーにEUリーダーが必要
+wailaInfo.energySourceProvide.name=供給電力: %1$s EU
+wailaInfo.energySourcePackets.name=パケット毎ティック: %s
+
+wailaInfo.energySinkDemainded.name=要求電力: %1$s EU
+wailaInfo.energySinkMaxInput.name=最大入力電力: %1$s EU
+
+wailaInfo.energyConductorMaxEnergy.name=最大電力伝導: %1$s EU
+wailaInfo.energyConductorLoss.name=ケーブルあたりの電力損失: %1$s EU
+wailaInfo.energyConductorColor.name=導線色: %1$s
+
+wailaInfo.energyStorageStorageInfo.name=蓄電量: %1$s / %2$s EU
+wailaInfo.energyStorageTeleporterInfo.name=Side Supports Teleporter: %s
+
+wailaInfo.energyContainerStorage.name=蓄電量: %1$s / %2$s EU
+wailaInfo.energyContainerMaxInput.name=最大入力電力: %1$s EU
+wailaInfo.energyContainerUsage.name=ティックごとの電力使用量: %s EU
+wailaInfo.energyContainerProduction.name=ティックごとの電力生産: %s EU
+
+wailaInfo.SinkHudOnly.name=電力受容体のみ
+wailaInfo.WireHudOnly.name=導線のみ
+wailaInfo.SourceHudOnly.name=電力供給機のみ
+wailaInfo.StorageHudOnly.name=蓄電機のみ
+wailaInfo.ContainerHudOnly.name=電気コンテナのみ
+wailaInfo.HudAll.name=すべて
+wailaInfo.HudDissabled.name=無効
+wailaInfo.switchHud.name=HUD モード: %s
+
+wailaInfo.yes.name=はい
+wailaInfo.no.name=いいえ
+
+ic2.sink.in.name=シンクの最大入力
+ic2.sink.req.name=シンクが必要
+ic2.storage.tele.name=テレポーターの保管情報
+ic2.storage.info.name=蓄電量の情報
+ic2.cont.info.name=コンテナ電力情報
+ic2.cont.in.name=コンテナ最大入力
+ic2.cont.use.name=コンテナ使用電力
+ic2.cont.prod=コンテナ発電量
+ic2.source.prov.name=ソース最大出力
+ic2.source.packets.name=ソースパケット
+ic2.cable.color.name=導線色
+ic2.cable.max.name=導線最大電流
+ic2.cable.loss.name=導線電力損失
