@@ -107,7 +107,7 @@ tile.blockTransformerLV.name=低圧変圧器
 tile.blockTransformerMV.name=中圧変圧器
 tile.blockTransformerHV.name=高圧変圧器
 tile.blockTransformerEV.name=超高圧変圧器
-tile.blockTransformerIV.name=超超高圧発電機
+tile.blockTransformerIV.name=超超高圧変圧器
 tile.blockAdjustableTranformer.name=可変変圧器
 
 //LV Machines
