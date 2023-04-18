@@ -1,0 +1,145 @@
+{
+    "itemGroup.improvableskills": "Improvable Skills",
+    "jei.improvableskills:parchf": "まとめてドロップする",
+
+    "_comment": "ITEMS#",
+    "item.improvableskills:skills_book": "スキルの書",
+    "item.improvableskills:scroll_normal": "スキルの巻物",
+    "item.improvableskills:scroll_creative": "クリエイティブスキルの巻物",
+    "item.improvableskills:scroll_creative.tooltip0": "隠しスキルをすべてアンロックします。",
+    "item.improvableskills:scroll_creative.tooltip1": "こいつを使ったら、お前は§kチーター§rってことだからな。",
+    "item.improvableskills:parchment_fragment": "羊皮紙の切れ端",
+    "item.improvableskills:scroll_ability": "能力の巻物",
+
+    "_comment": "SKILLS#",
+    "skill.improvableskills:accelerated_furnace": "高速かまど",
+    "skill.improvableskills:accelerated_furnace.desc": "かまどのスピードがアップします。かまどの半径5ブロック以内にいる必要があります。",
+
+    "skill.improvableskills:mining": "採掘スピード上昇",
+    "skill.improvableskills:mining.desc": "ツルハシの採掘速度がアップします。",
+
+    "skill.improvableskills:digging": "掘削スピード上昇",
+    "skill.improvableskills:digging.desc": "シャベルの掘削速度がアップします。",
+
+    "skill.improvableskills:cutting": "伐採スピード上昇",
+    "skill.improvableskills:cutting.desc": "斧の伐採速度がアップします。",
+
+    "skill.improvableskills:attack_speed": "攻撃速度上昇",
+    "skill.improvableskills:attack_speed.desc": "すべての近接武器の攻撃速度がアップします。",
+
+    "skill.improvableskills:leaper": "カエル足",
+    "skill.improvableskills:leaper.desc": "ジャンプ力がアップします。",
+
+    "skill.improvableskills:soft_landing": "着地の極意",
+    "skill.improvableskills:soft_landing.desc": "落下ダメージを減少させます。高いところから落ちても（レベルが最大なら）助かるようになります。",
+
+    "skill.improvableskills:obsidian_skin": "黒曜石の盾",
+    "skill.improvableskills:obsidian_skin.desc": "炎/溶岩ダメージを減少させます。",
+
+    "skill.improvableskills:ladder_king": "ハシゴの王様",
+    "skill.improvableskills:ladder_king.desc": "梯子を上るスピードがアップします。",
+
+    "skill.improvableskills:treasure_finder": "トレジャーハンター",
+    "skill.improvableskills:treasure_finder.desc": "採掘中に、貴重な素材がより見つかるようになります。",
+
+    "skill.improvableskills:pvp_protection": "PvP被ダメージ軽減",
+    "skill.improvableskills:pvp_protection.desc": "ほかのプレイヤーからの被ダメージが減少します。",
+
+    "skill.improvableskills:luck_of_the_sea": "海の幸",
+    "skill.improvableskills:luck_of_the_sea.desc": "釣りで宝が釣れる確率がアップします。",
+
+    "skill.improvableskills:item_repair": "自然修復",
+    "skill.improvableskills:item_repair.desc": "アイテムをゆっくり修理されます。手に持っているツールと着用した鎧の両方に効果があります。",
+
+    "skill.improvableskills:health": "体力上昇",
+    "skill.improvableskills:health.desc": "最大HPを最大+20HP（ハート10個）アップさせます。",
+
+    "skill.improvableskills:growth": "超成長",
+    "skill.improvableskills:growth.desc": "周囲の植物の成長が早くなります。",
+
+    "skill.improvableskills:alchemist": "錬金術師",
+    "skill.improvableskills:alchemist.desc": "醸造台の醸造速度が上がります。錬金術師にピッタリ",
+
+    "skill.improvableskills:generic_protection": "防御力上昇",
+    "skill.improvableskills:generic_protection.desc": "お肌がガッチガチになり、防御力が上がります。",
+
+    "skill.improvableskills:treasure_sands": "砂の中の秘宝",
+    "skill.improvableskills:treasure_sands.desc": "砂の中から宝物が見つかるようになります。",
+
+    "skill.improvableskills:atkdmg_melee": "近接ダメージ上昇",
+    "skill.improvableskills:atkdmg_melee.desc": "敵に与える近接ダメージがアップします。",
+
+    "skill.improvableskills:atkdmg_ranged": "間接ダメージ上昇",
+    "skill.improvableskills:atkdmg_ranged.desc": "敵に与える関節ダメージがアップします。",
+
+    "skill.improvableskills:pvp": "PvP被ダメージ軽減",
+    "skill.improvableskills:pvp.desc": "ほかのプレイヤーからの被ダメージが減少します。",
+
+    "skill.improvableskills:enchanter": "エンチャントマスター",
+    "skill.improvableskills:enchanter.desc": "エンチャントを行うために必要な最小レベルが減少します。(4レベルごとに効果が大きくなる）",
+
+    "skill.improvableskills:ender_manipulator": "縮地の極意",
+    "skill.improvableskills:ender_manipulator.desc": "エンダーパールから受けるダメージを無効化します。最大レベルでは、体力が回復する可能性があります",
+
+    "skill.improvableskills:xp+": "取得経験値上昇",
+    "skill.improvableskills:xp+.desc": "採掘、動物の繁殖、釣り、モブ退治で得られる経験値がアップします。",
+
+    "pagelet.improvableskills:xp_bank": "経験値バンク",
+
+    "_comment": "ABILITIES#",
+    "ability.improvableskills:enchanting": "心のエンチャントテーブル",
+    "ability.improvableskills:crafter": "心の作業台",
+    "ability.improvableskills:anvil": "心の金床",
+
+    "_comment": "BUTTONS#",
+    "button.improvableskills:upgrade": "アップグレード",
+    "button.improvableskills:degrade": "ダウングレード",
+
+    "_comment": "TEXTS#",
+    "text.improvableskills:level": "Level %s/%s",
+    "text.improvableskills:totalXP": "Your XP: %s XP",
+    "text.improvableskills:storeall": "すべて預ける",
+    "text.improvableskills:draw1lvl": "1レベル分引き出す",
+    "text.improvableskills:draw10lvls": "10レベル分引き出す",
+    "text.improvableskills:enchpower": "Enchant Power: %,d",
+    "chat.improvableskills.guide": "スキルの書を手に入れました！これでスキルを磨く準備は万端！",
+    "chat.improvableskills.page_unlocked": "新スキル(%s)をアンロックしました！",
+    "gui.improvableskills.locked": "§4スキルの書が必要です。",
+    "chat.improvableskills:skill_reset_self": "スキルレベルとスキルの習得状況がリセットされました。",
+    "chat.improvableskills:skill_reset_tother": "You reset skill levels and scrolls for %s.",
+    "chat.improvableskills:skill_reset_fother": "%s has reset your skill levels and scrolls.",
+    "gui.improvableskills:nver": "新バージョン",
+    "gui.improvableskills:changes": "変更点",
+    "text.improvableskills:shiftfrecipe": "&6&lSHIFT&r&7を押してレシピを表示します。",
+    "text.improvableskills:unresolved_item": "Unresolved Item",
+
+    "_comment": "SUBTITLES#",
+    "subtitles.improvableskills:treasure_found": "お宝みっけ",
+    "subtitles.improvableskills:skill_book_open": "Book of skill opened",
+    "subtitles.improvableskills:skill_book_closed": "Book of skill closed",
+
+    "_comment": "PAGELETS#",
+    "pagelet.improvableskills:update": "新バージョンが利用可能です！",
+    "pagelet.improvableskills:news": "ニュース",
+    "pagelet.improvableskills:discord1": "Discord",
+    "pagelet.improvableskills:discord2": "お困りですか？素晴らしいアイデアを持っていますか？恥ずかしがらずに、今すぐ私たちのDiscordに参加してください。私たちの想像力は無限ではないので、あなたの意見や提案を聞きたいのです。最も優れたスキルやアビリティは、実装のために投票されます。(アーティストの方も大歓迎です！）",
+    "pagelet.improvableskills:skills": "スキル",
+    "pagelet.improvableskills:abilities": "アビリティ",
+
+    "_comment": "RECIPES#",
+    "recipe.improvableskills:skill.luck_of_the_sea": "&b釣り&7をしているときに&410%%&7の確率で見つかります。",
+    "recipe.improvableskills:skill.obsidian_skin": "&bネザーの砦&7から&433,[3]%%&7の確率で見つかります。",
+    "recipe.improvableskills:skill.atkdmg_ranged": "&bスケルトン&7を倒した際に&42,5%%&7の確率で見つかります。",
+    "recipe.improvableskills:skill.alchemist": "&bウィッチ&7を倒した際に&410%%&7の確率で見つかります。",
+    "recipe.improvableskills:skill.growth": "&bジャングルの寺院&7から&425%%&7の確率で見つかります。",
+    "recipe.improvableskills:skill.ender_manipulator": "&bエンダーマン&7を倒した際に&45%%&7の確率で見つかります。",
+    "recipe.improvableskills:skill.generic_protection": "&bスポナー部屋など&7から&425%%&7の確率で見つかります。",
+    "recipe.improvableskills:skill.health": "&bエンドシティ&7から&411,[1]%%&7の確率で見つかります。",
+    "recipe.improvableskills:skill.enchanter": "&bエンドの砦&7から&425%%&7の確率で見つかります。",
+    "recipe.improvableskills:skill.treasure_sands": "&bピラミッド&7から&412,5%%&7の確率で見つかります。",
+    "recipe.improvableskills:skill.xp+": "&bエルダーガーディアン&7から&433,[3]%%&7の確率で見つかります。",
+
+    "recipe.improvableskills:ability.enchanting": "&b<improvableskills:parchment_fragment>&7, &2<minecraft:enchanting_table>&7, &2<minecraft:bookshelf>&7 and an &2<minecraft:ender_pearl>&7を一か所にまとめてドロップする。",
+    "recipe.improvableskills:ability.crafter": "&b<improvableskills:parchment_fragment>&7, &2<minecraft:crafting_table>&7, &2<minecraft:iron_ingot>&7 and an &2<minecraft:ender_pearl>&7を一か所にまとめてドロップする。",
+    "recipe.improvableskills:ability.anvil": "&b<improvableskills:parchment_fragment>&7, &2<minecraft:anvil>&7, &2<minecraft:emerald>&7 and an &2<minecraft:ender_pearl>&7を一か所にまとめてドロップする。"
+}
