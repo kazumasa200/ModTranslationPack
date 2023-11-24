@@ -1,0 +1,8 @@
+{
+	"playerrevive.chat.bleeding": "%sが助けを求めています。原因：%s",
+	"death.attack.bledToDeath.player": "%sは失血死した",
+	"playerrevive.gui.button.send": "送る",
+	"playerrevive.gui.label.time_left": "残り%s秒",
+	"playerrevive.gui.hold": "'%s'を%s秒間押して死を受け入れる、もしくは救助されるのを待とう",
+	"playerrevive.revive.item": "次のアイテムが必要："
+}

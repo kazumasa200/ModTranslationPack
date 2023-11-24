@@ -44,10 +44,11 @@
   "item.simplyswords.gold_longsword": "金の長剣",
   "item.simplyswords.diamond_longsword": "ダイヤモンドの長剣",
   "item.simplyswords.netherite_longsword": "ネザライトの長剣",
-  "item.simplyswords.toxic_longsword": "長剣 of the Plague",
+  "item.simplyswords.toxic_longsword": "疫病の長剣",
   "item.simplyswords.runic_twinblade": "ルーニックツインブレード",
   "item.simplyswords.runic_glaive": "ルーニックグレイブ",
   "item.simplyswords.runic_spear": "ルーニックスピア",
+  "item.simplyswords.runic_warglaive": "ルーニック ウォーグレイブ",
   "item.simplyswords.runic_greathammer": "ルーニックグレートハンマー",
   "item.simplyswords.runic_greataxe": "ルーニックグレートアックス",
   "item.simplyswords.iron_twinblade": "鉄の両剣",
@@ -72,6 +73,11 @@
   "item.simplyswords.netherite_scythe": "ネザライトの鎌",
   "item.simplyswords.runic_chakram": "ルーニックチャクラム",
   "item.simplyswords.runic_scythe": "ルーニックサイズ",
+  "item.simplyswords.iron_halberd": "鉄のハルバード",
+  "item.simplyswords.gold_halberd": "金のハルバード",
+  "item.simplyswords.diamond_halberd": "ダイヤモンドのハルバード",
+  "item.simplyswords.netherite_halberd": "ネザライトのハルバード",
+  "item.simplyswords.runic_halberd": "ルーニックハルバード",
   "item.simplyswords.storms_edge": "嵐の刃",
   "item.simplyswords.stormbringer": "ストームブリンガー",
   "item.simplyswords.sword_on_a_stick": "棒の剣",
@@ -89,8 +95,24 @@
   "item.simplyswords.frostfall": "フロストフォール",
   "item.simplyswords.molten_edge": "モルテンエッジ",
   "item.simplyswords.livyatan": "リヴァイアサン",
+  "item.simplyswords.icewhisper": "アイスウィスパー",
+  "item.simplyswords.arcanethyst": "アルカンジスト",
+  "item.simplyswords.thunderbrand": "サンダーブランド",
+  "item.simplyswords.slumbering_lichblade": "まどろむリッチブレード",
+  "item.simplyswords.waking_lichblade": "目覚めるリッチブレード",
+  "item.simplyswords.awakened_lichblade": "覚醒したリッチブレード",
+  "item.simplyswords.shadowsting": "シャドウスティング",
+  "item.simplyswords.harbinger": "ハービンガー",
+  "item.simplyswords.sunfire": "サンファイア",
+  "item.simplyswords.dormant_relic": "休眠遺物",
+  "item.simplyswords.tainted_relic": "汚染された遺物",
+  "item.simplyswords.righteous_relic": "正義の遺物",
+
 
   "item.simplyswords.runic_tablet": "ルーニックの石板",
+  "item.simplyswords.runefused_gem": "ルーン入りジェム",
+  "item.simplyswords.netherfused_gem": "ネザー入りジェム",
+  "item.simplyswords.empowered_remnant": "強化されたレムナント",
 
 
   "item.simplyswords.mythicmetals_compat.adamantite.adamantite_claymore": "アダマンタイトの大剣",
@@ -107,6 +129,7 @@
   "item.simplyswords.mythicmetals_compat.adamantite.adamantite_greataxe": "アダマンタイトの大斧",
   "item.simplyswords.mythicmetals_compat.adamantite.adamantite_chakram": "アダマンタイトのチャクラム",
   "item.simplyswords.mythicmetals_compat.adamantite.adamantite_scythe": "アダマンタイトの鎌",
+  "item.simplyswords.mythicmetals_compat.adamantite.adamantite_halberd": "Adamantite Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.aquarium.aquarium_claymore": "アクアリウムの大剣",
@@ -123,6 +146,7 @@
   "item.simplyswords.mythicmetals_compat.aquarium.aquarium_greataxe": "アクアリウムの大斧",
   "item.simplyswords.mythicmetals_compat.aquarium.aquarium_chakram": "アクアリウムのチャクラム",
   "item.simplyswords.mythicmetals_compat.aquarium.aquarium_scythe": "アクアリウムの鎌",
+  "item.simplyswords.mythicmetals_compat.aquarium.aquarium_halberd": "Aquarium Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.banglum.banglum_claymore": "バングラムの大剣",
@@ -139,6 +163,7 @@
   "item.simplyswords.mythicmetals_compat.banglum.banglum_greataxe": "バングラムの大斧",
   "item.simplyswords.mythicmetals_compat.banglum.banglum_chakram": "バングラムのチャクラム",
   "item.simplyswords.mythicmetals_compat.banglum.banglum_scythe": "バングラムの鎌",
+  "item.simplyswords.mythicmetals_compat.banglum.banglum_halberd": "Banglum Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.carmot.carmot_claymore": "カーモットの大剣",
@@ -155,6 +180,7 @@
   "item.simplyswords.mythicmetals_compat.carmot.carmot_greataxe": "カーモットの大斧",
   "item.simplyswords.mythicmetals_compat.carmot.carmot_chakram": "カーモットのチャクラム",
   "item.simplyswords.mythicmetals_compat.carmot.carmot_scythe": "カーモットの鎌",
+  "item.simplyswords.mythicmetals_compat.carmot.carmot_halberd": "Carmot Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.kyber.kyber_claymore": "Kyber 大剣",
@@ -171,6 +197,7 @@
   "item.simplyswords.mythicmetals_compat.kyber.kyber_greataxe": "Kyber 大斧",
   "item.simplyswords.mythicmetals_compat.kyber.kyber_chakram": "Kyber チャクラム",
   "item.simplyswords.mythicmetals_compat.kyber.kyber_scythe": "Kyber 鎌",
+  "item.simplyswords.mythicmetals_compat.kyber.kyber_halberd": "Kyber Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.mythril.mythril_claymore": "ミスリルの大剣",
@@ -187,6 +214,7 @@
   "item.simplyswords.mythicmetals_compat.mythril.mythril_greataxe": "ミスリルの大斧",
   "item.simplyswords.mythicmetals_compat.mythril.mythril_chakram": "ミスリルのチャクラム",
   "item.simplyswords.mythicmetals_compat.mythril.mythril_scythe": "ミスリルの鎌",
+  "item.simplyswords.mythicmetals_compat.mythril.mythril_halberd": "Mythril Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.orichalcum.orichalcum_claymore": "オリハルコンの大剣",
@@ -203,6 +231,7 @@
   "item.simplyswords.mythicmetals_compat.orichalcum.orichalcum_greataxe": "オリハルコンの大斧",
   "item.simplyswords.mythicmetals_compat.orichalcum.orichalcum_chakram": "オリハルコンのチャクラム",
   "item.simplyswords.mythicmetals_compat.orichalcum.orichalcum_scythe": "オリハルコンの鎌",
+  "item.simplyswords.mythicmetals_compat.orichalcum.orichalcum_halberd": "Orichalcum Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.osmium.osmium_claymore": "オスミウムの大剣",
@@ -219,6 +248,7 @@
   "item.simplyswords.mythicmetals_compat.osmium.osmium_greataxe": "オスミウムの大斧",
   "item.simplyswords.mythicmetals_compat.osmium.osmium_chakram": "オスミウムのチャクラム",
   "item.simplyswords.mythicmetals_compat.osmium.osmium_scythe": "オスミウムの鎌",
+  "item.simplyswords.mythicmetals_compat.osmium.osmium_halberd": "Osmium Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.prometheum.prometheum_claymore": "プロメテウムの大剣",
@@ -235,6 +265,7 @@
   "item.simplyswords.mythicmetals_compat.prometheum.prometheum_greataxe": "プロメテウムの大斧",
   "item.simplyswords.mythicmetals_compat.prometheum.prometheum_chakram": "プロメテウムのチャクラム",
   "item.simplyswords.mythicmetals_compat.prometheum.prometheum_scythe": "プロメテウムの鎌",
+  "item.simplyswords.mythicmetals_compat.prometheum.prometheum_halberd": "Prometheum Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.quadrillum.quadrillum_claymore": "カドリユムの大剣",
@@ -251,6 +282,7 @@
   "item.simplyswords.mythicmetals_compat.quadrillum.quadrillum_greataxe": "カドリユムの大斧",
   "item.simplyswords.mythicmetals_compat.quadrillum.quadrillum_chakram": "カドリユムのチャクラム",
   "item.simplyswords.mythicmetals_compat.quadrillum.quadrillum_scythe": "カドリユムの鎌",
+  "item.simplyswords.mythicmetals_compat.quadrillum.quadrillum_halberd": "Quadrillum Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.runite.runite_claymore": "ルナイトの大剣",
@@ -267,6 +299,7 @@
   "item.simplyswords.mythicmetals_compat.runite.runite_greataxe": "ルナイトの大斧",
   "item.simplyswords.mythicmetals_compat.runite.runite_chakram": "ルナイトのチャクラム",
   "item.simplyswords.mythicmetals_compat.runite.runite_scythe": "ルナイトの鎌",
+  "item.simplyswords.mythicmetals_compat.runite.runite_halberd": "Runite Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.star_platinum.star_platinum_claymore": "スタープラチナの大剣",
@@ -283,6 +316,7 @@
   "item.simplyswords.mythicmetals_compat.star_platinum.star_platinum_greataxe": "スタープラチナの大斧",
   "item.simplyswords.mythicmetals_compat.star_platinum.star_platinum_chakram": "スタープラチナのチャクラム",
   "item.simplyswords.mythicmetals_compat.star_platinum.star_platinum_scythe": "スタープラチナの鎌",
+  "item.simplyswords.mythicmetals_compat.star_platinum.star_platinum_halberd": "Star Platinum Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.bronze.bronze_claymore": "ブロンズの大剣",
@@ -299,6 +333,7 @@
   "item.simplyswords.mythicmetals_compat.bronze.bronze_greataxe": "ブロンズの大斧",
   "item.simplyswords.mythicmetals_compat.bronze.bronze_chakram": "ブロンズのチャクラム",
   "item.simplyswords.mythicmetals_compat.bronze.bronze_scythe": "ブロンズの鎌",
+  "item.simplyswords.mythicmetals_compat.bronze.bronze_halberd": "Bronze Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.palladium.palladium_claymore": "パラジウムの大剣",
@@ -315,6 +350,7 @@
   "item.simplyswords.mythicmetals_compat.palladium.palladium_greataxe": "パラジウムの大斧",
   "item.simplyswords.mythicmetals_compat.palladium.palladium_chakram": "パラジウムのチャクラム",
   "item.simplyswords.mythicmetals_compat.palladium.palladium_scythe": "パラジウムの鎌",
+  "item.simplyswords.mythicmetals_compat.palladium.palladium_halberd": "Palladium Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.stormyx.stormyx_claymore": "Stormyx 大剣",
@@ -331,6 +367,7 @@
   "item.simplyswords.mythicmetals_compat.stormyx.stormyx_greataxe": "Stormyx 大斧",
   "item.simplyswords.mythicmetals_compat.stormyx.stormyx_chakram": "Stormyx チャクラム",
   "item.simplyswords.mythicmetals_compat.stormyx.stormyx_scythe": "Stormyx 鎌",
+  "item.simplyswords.mythicmetals_compat.stormyx.stormyx_halberd": "Stormyx Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.steel.steel_claymore": "鋼の大剣",
@@ -347,6 +384,7 @@
   "item.simplyswords.mythicmetals_compat.steel.steel_greataxe": "鋼の大斧",
   "item.simplyswords.mythicmetals_compat.steel.steel_chakram": "鋼のチャクラム",
   "item.simplyswords.mythicmetals_compat.steel.steel_scythe": "鋼の鎌",
+  "item.simplyswords.mythicmetals_compat.steel.steel_halberd": "Steel Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.celestium.celestium_claymore": "Celestium 大剣",
@@ -363,6 +401,7 @@
   "item.simplyswords.mythicmetals_compat.celestium.celestium_greataxe": "Celestium 大斧",
   "item.simplyswords.mythicmetals_compat.celestium.celestium_chakram": "Celestium チャクラム",
   "item.simplyswords.mythicmetals_compat.celestium.celestium_scythe": "Celestium 鎌",
+  "item.simplyswords.mythicmetals_compat.celestium.celestium_halberd": "Celestium Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.metallurgium.metallurgium_claymore": "Metallurgium 大剣",
@@ -379,6 +418,7 @@
   "item.simplyswords.mythicmetals_compat.metallurgium.metallurgium_greataxe": "Metallurgium 大斧",
   "item.simplyswords.mythicmetals_compat.metallurgium.metallurgium_chakram": "Metallurgium チャクラム",
   "item.simplyswords.mythicmetals_compat.metallurgium.metallurgium_scythe": "Metallurgium 鎌",
+  "item.simplyswords.mythicmetals_compat.metallurgium.metallurgium_halberd": "Metallurgium Halberd",
 
 
   "item.simplyswords.mythicmetals_compat.copper.copper_longsword": "銅の長剣",
@@ -399,6 +439,7 @@
   "item.simplyswords.gobber_compat.gobber.gobber_greataxe": "Gobber 大斧",
   "item.simplyswords.gobber_compat.gobber.gobber_chakram": "Gobber チャクラム",
   "item.simplyswords.gobber_compat.gobber.gobber_scythe": "Gobber 鎌",
+  "item.simplyswords.gobber_compat.gobber.gobber_halberd": "Gobber Halberd",
 
   "item.simplyswords.gobber_compat.gobber_nether.gobber_nether_claymore": "Nether 大剣",
   "item.simplyswords.gobber_compat.gobber_nether.gobber_nether_cutlass": "Nether カトラス",
@@ -414,6 +455,7 @@
   "item.simplyswords.gobber_compat.gobber_nether.gobber_nether_greataxe": "Nether 大斧",
   "item.simplyswords.gobber_compat.gobber_nether.gobber_nether_chakram": "Nether チャクラム",
   "item.simplyswords.gobber_compat.gobber_nether.gobber_nether_scythe": "Nether 鎌",
+  "item.simplyswords.gobber_compat.gobber_nether.gobber_nether_halberd": "Nether Halberd",
 
   "item.simplyswords.gobber_compat.gobber_end.gobber_end_claymore": "End Gobber 大剣",
   "item.simplyswords.gobber_compat.gobber_end.gobber_end_cutlass": "End Gobber カトラス",
@@ -429,25 +471,41 @@
   "item.simplyswords.gobber_compat.gobber_end.gobber_end_greataxe": "End Gobber 大斧",
   "item.simplyswords.gobber_compat.gobber_end.gobber_end_chakram": "End Gobber チャクラム",
   "item.simplyswords.gobber_compat.gobber_end.gobber_end_scythe": "End Gobber 鎌",
+  "item.simplyswords.gobber_compat.gobber_end.gobber_end_halberd": "End Gobber Halberd",
 
 
   "itemGroup.simplyswords.simplyswords": "Simply Swords",
   "item.simplyswords.awakening": "感応LV: %d ",
   "item.simplyswords.awakening.exp": "感応XP: %d%% ",
   "item.simplyswords.awakening.powers": "感応力:",
+  "item.simplyswords.greater_runic_power": "Greater",
+  "item.simplyswords.runefused_power": "ルーンフューズドパワー:",
+  "item.simplyswords.gem_description": "Can be socketed into a matching",
+  "item.simplyswords.gem_description2": "gem socket on a unique weapon.",
+  "item.simplyswords.remnant_description": "Smith with a Runic Tablet or",
+  "item.simplyswords.remnant_description2": "Netherite Ingot to create a gem",
+  "item.simplyswords.remnant_description3": "that can be socketed into unique",
+  "item.simplyswords.remnant_description4": "weapons.",
+  "item.simplyswords.empty_runic_slot": "[ 空のルーンソケット ]",
+  "item.simplyswords.empty_nether_slot": "[ 空のネザーソケット ]",
+  "item.simplyswords.filled_runic_slot": "[ ルーンの宝石 ]",
 
 
 
   "effect.simplyswords.freeze": "フリーズ",
-  "effect.simplyswords.burn": "硫黄",
   "effect.simplyswords.omen": "予兆",
   "effect.simplyswords.watcher": "ウォッチャー",
-  "effect.simplyswords.electric": "稲妻",
+  "effect.simplyswords.storm": "嵐",
   "effect.simplyswords.wildfire": "野火",
+  "effect.simplyswords.echo": "エコー",
+  "effect.simplyswords.ward": "ワード",
+  "effect.simplyswords.immolation": "焼身",
+  "effect.simplyswords.onslaught": "猛攻",
 
   "item.simplyswords.onrightclick": "右クリック時:",
+  "item.simplyswords.onrightclickheld": "右クリックを押したままにする:",
   "item.simplyswords.firesworditem.tooltip1": "固有効果: ブリムストーン",
-  "item.simplyswords.firesworditem.tooltip2": "Chance on hit to spew forth explosive brimstone.",
+  "item.simplyswords.firesworditem.tooltip2": "ヒットすると確率で爆発性の硫黄を吐き出す。",
 
   "item.simplyswords.bramblesworditem.tooltip1": "固有効果: ブランブルソーン",
   "item.simplyswords.bramblesworditem.tooltip2": "Chance on hit to release a blanket of toxic",
@@ -456,6 +514,9 @@
   "item.simplyswords.stormsworditem.tooltip1": "固有効果: 嵐",
   "item.simplyswords.stormsworditem.tooltip2": "When raining/wet: Chance on hit to bring",
   "item.simplyswords.stormsworditem.tooltip3": "lightning down from the sky upon your foes.",
+  "item.simplyswords.stormsworditem.tooltip4": "While channelled, gain resistance and create",
+  "item.simplyswords.stormsworditem.tooltip5": "a localised storm that rains lightning down",
+  "item.simplyswords.stormsworditem.tooltip6": "on nearby enemies.",
 
   "item.simplyswords.watchersworditem.tooltip1": "固有効果: 前兆",
   "item.simplyswords.watchersworditem.tooltip2": "Chance on hit to rip the life from a",
@@ -478,6 +539,12 @@
   "item.simplyswords.volcanicfurysworditem.tooltip1": "固有効果: 火山の怒り",
   "item.simplyswords.volcanicfurysworditem.tooltip2": "Chance on hit to ignite your target",
   "item.simplyswords.volcanicfurysworditem.tooltip3": "and send them flying.",
+  "item.simplyswords.volcanicfurysworditem.tooltip4": "Channel your fury, exchanging health to",
+  "item.simplyswords.volcanicfurysworditem.tooltip5": "gain resistance, whilst causing tremors",
+  "item.simplyswords.volcanicfurysworditem.tooltip6": "that pull enemies towards you.",
+  "item.simplyswords.volcanicfurysworditem.tooltip7": "Stop channelling to unleash your fury,",
+  "item.simplyswords.volcanicfurysworditem.tooltip8": "launching, igniting, and dealing more",
+  "item.simplyswords.volcanicfurysworditem.tooltip9": "damage the longer the channel.",
 
   "item.simplyswords.ferocitysworditem.tooltip1": "固有効果: 獰猛",
   "item.simplyswords.ferocitysworditem.tooltip2": "Chance on hit to increase your attack",
@@ -543,45 +610,192 @@
   "item.simplyswords.livyatansworditem.tooltip5": "Preemptively shatter the ice encasing your",
   "item.simplyswords.livyatansworditem.tooltip6": "enemies, dealing more damage the earlier you shatter.",
 
+  "item.simplyswords.icewhispersworditem.tooltip1": "固有効果: 永久凍土",
+  "item.simplyswords.icewhispersworditem.tooltip2": "While wielded, gain a frost aura that deals",
+  "item.simplyswords.icewhispersworditem.tooltip3": "damage and slows enemies within %d blocks.",
+  "item.simplyswords.icewhispersworditem.tooltip4": "Drain your hunger in order to summon a",
+  "item.simplyswords.icewhispersworditem.tooltip5": "blizzard at your location, slowing and dealing",
+  "item.simplyswords.icewhispersworditem.tooltip6": "increased damage to enemies within %d blocks.",
+
+  "item.simplyswords.arcanethystsworditem.tooltip1": "固有効果: 秘術攻撃",
+  "item.simplyswords.arcanethystsworditem.tooltip2": "Chance on hit to levitate your target.",
+  "item.simplyswords.arcanethystsworditem.tooltip3": "Channel your arcane energy to assault",
+  "item.simplyswords.arcanethystsworditem.tooltip4": "nearby enemies, lifting them into the",
+  "item.simplyswords.arcanethystsworditem.tooltip5": "air while dealing damage over time,",
+  "item.simplyswords.arcanethystsworditem.tooltip6": "then slamming them into the ground.",
+
+  "item.simplyswords.thunderbrandsworditem.tooltip1": "固有効果: サンダーブリッツ",
+  "item.simplyswords.thunderbrandsworditem.tooltip2": "Chance on hit to refresh ability cooldown.",
+  "item.simplyswords.thunderbrandsworditem.tooltip3": "Momentarily slow yourself and charge your",
+  "item.simplyswords.thunderbrandsworditem.tooltip4": "weapon, dealing area damage to nearby foes.",
+  "item.simplyswords.thunderbrandsworditem.tooltip5": "Once charged, dash forward, gaining haste",
+  "item.simplyswords.thunderbrandsworditem.tooltip6": "and dealing enormous damage to enemies in",
+  "item.simplyswords.thunderbrandsworditem.tooltip7": "your path.",
+
+  "item.simplyswords.stormsedgesworditem.tooltip1": "固有効果: ストームジョルト",
+  "item.simplyswords.stormsedgesworditem.tooltip2": "Chance on hit to refresh ability cooldown.",
+  "item.simplyswords.stormsedgesworditem.tooltip3": "Jolt forward like lightning, gaining",
+  "item.simplyswords.stormsedgesworditem.tooltip4": "momentary invulnerability as well",
+  "item.simplyswords.stormsedgesworditem.tooltip5": "as lingering speed and haste.",
+
+  "item.simplyswords.lichbladesworditem.tooltip1": "固有効果: 魂の苦悩I",
+  "item.simplyswords.lichbladesworditem.tooltip1.2": "固有効果: 魂の苦悩Ⅱ",
+  "item.simplyswords.lichbladesworditem.tooltip1.3": "固有効果: 魂の苦悩Ⅲ",
+  "item.simplyswords.lichbladesworditem.tooltip2": "Tortured souls radiate from you,",
+  "item.simplyswords.lichbladesworditem.tooltip3": "damaging any nearby enemies.",
+  "item.simplyswords.lichbladesworditem.tooltip4": "Command your souls to attack",
+  "item.simplyswords.lichbladesworditem.tooltip5": "a distant target, dealing rapid",
+  "item.simplyswords.lichbladesworditem.tooltip6": "damage. Chance to siphon health.",
+  "item.simplyswords.lichbladesworditem.tooltip7": "After the attack subsides, your souls",
+  "item.simplyswords.lichbladesworditem.tooltip8": "return to you and, when reaching you,",
+  "item.simplyswords.lichbladesworditem.tooltip9": "grant you absorption.",
+
+  "item.simplyswords.stormbringersworditem.tooltip1": "固有効果: ショックディフレクト",
+  "item.simplyswords.stormbringersworditem.tooltip2": "Focus energy to a single point of your",
+  "item.simplyswords.stormbringersworditem.tooltip3": "blade, allowing you to momentarily block",
+  "item.simplyswords.stormbringersworditem.tooltip4": "incoming attacks.",
+  "item.simplyswords.stormbringersworditem.tooltip5": "When successfully timing this ability",
+  "item.simplyswords.stormbringersworditem.tooltip6": "with an enemy melee swing you will",
+  "item.simplyswords.stormbringersworditem.tooltip7": "perform a parry, dealing damage and",
+  "item.simplyswords.stormbringersworditem.tooltip8": "launching your opponent while also",
+  "item.simplyswords.stormbringersworditem.tooltip9": "reducing the ability cooldown.",
+  "item.simplyswords.stormbringersworditem.tooltip10": "Performing parries in succession will",
+  "item.simplyswords.stormbringersworditem.tooltip11": "increase the ability damage and cooldown.",
+
+  "item.simplyswords.shadowmistsworditem.tooltip1": "固有効果: シャドウミスト",
+  "item.simplyswords.shadowmistsworditem.tooltip2": "Chance on hit to deal magic damage that",
+  "item.simplyswords.shadowmistsworditem.tooltip3": "scales with your targets armor value.",
+  "item.simplyswords.shadowmistsworditem.tooltip4": "Create a blinding shadowy mist at your feet",
+  "item.simplyswords.shadowmistsworditem.tooltip5": "and shadowstep forward a short distance.",
+
+  "item.simplyswords.harbingersworditem.tooltip1": "固有効果: アビサル軍旗",
+  "item.simplyswords.harbingersworditem.tooltip2": "Chance on hit to inflict weakness.",
+  "item.simplyswords.harbingersworditem.tooltip3": "Summons an Abyssal Battle Standard that",
+  "item.simplyswords.harbingersworditem.tooltip4": "pulls, damages, and slows enemies whilst",
+  "item.simplyswords.harbingersworditem.tooltip5": "periodically granting haste to friendly",
+  "item.simplyswords.harbingersworditem.tooltip6": "players within its vicinity.",
+
+  "item.simplyswords.sunfiresworditem.tooltip1": "固有効果: 正義の軍旗",
+  "item.simplyswords.sunfiresworditem.tooltip2": "Chance on hit to regenerate health.",
+  "item.simplyswords.sunfiresworditem.tooltip3": "Summons an Righteous Battle Standard that",
+  "item.simplyswords.sunfiresworditem.tooltip4": "ignites, damages, and slows enemies whilst",
+  "item.simplyswords.sunfiresworditem.tooltip5": "periodically granting strength and health",
+  "item.simplyswords.sunfiresworditem.tooltip6": "to friendly players within its vicinity.",
+
+  "item.simplyswords.dormantrelicsworditem.tooltip2": "内側からほのかに力が湧いてくるようです。",
+  "item.simplyswords.poweredrelicsworditem.tooltip2": "成長する力が内側からにじみ出るようです。",
+
+
 
   "item.simplyswords.levitationsworditem.tooltip1": "ルーニックパワー: フロート",
+  "item.simplyswords.uniquesworditem.runefused_power.float": "[ Runefused: Float ]",
   "item.simplyswords.levitationsworditem.tooltip2": "Chance on hit to reverse the effects",
   "item.simplyswords.levitationsworditem.tooltip3": "of gravity on your target.",
   "item.simplyswords.speedsworditem.tooltip1": "ルーニックパワー: スイフトネス",
+  "item.simplyswords.uniquesworditem.runefused_power.swiftness": "[ Runefused: Swiftness ]",
   "item.simplyswords.speedsworditem.tooltip2": "Chance on hit to increase the wielders",
   "item.simplyswords.speedsworditem.tooltip3": "movespeed for a duration.",
   "item.simplyswords.slownesssworditem.tooltip1": "ルーニックパワー: スロー",
+  "item.simplyswords.uniquesworditem.runefused_power.slow": "[ Runefused: Slow ]",
   "item.simplyswords.slownesssworditem.tooltip2": "Chance on hit to slow the target",
   "item.simplyswords.slownesssworditem.tooltip3": "for a duration.",
   "item.simplyswords.freezesworditem.tooltip1": "ルーニックパワー: フリーズ",
+  "item.simplyswords.uniquesworditem.runefused_power.freeze": "[ Runefused: Freeze ]",
   "item.simplyswords.freezesworditem.tooltip2": "Chance on hit to chill or freeze your target.",
   "item.simplyswords.wildfiresworditem.tooltip1": "ルーニックパワー: ワイルドファイア",
+  "item.simplyswords.uniquesworditem.runefused_power.wildfire": "[ Runefused: Wildfire ]",
   "item.simplyswords.wildfiresworditem.tooltip2": "Chance on hit to ignite all nearby ",
   "item.simplyswords.wildfiresworditem.tooltip3": "entities of the same type as your target.",
   "item.simplyswords.zephyrsworditem.tooltip1": "ルーニックパワー: ゼファー",
+  "item.simplyswords.uniquesworditem.runefused_power.zephyr": "[ Runefused: Zephyr ]",
   "item.simplyswords.zephyrsworditem.tooltip2": "Chance on hit to gain attack and move",
   "item.simplyswords.zephyrsworditem.tooltip3": "speed.",
   "item.simplyswords.shieldingsworditem.tooltip1": "ルーニックパワー: シールド",
+  "item.simplyswords.uniquesworditem.runefused_power.shielding": "[ Runefused: Shielding ]",
   "item.simplyswords.shieldingsworditem.tooltip2": "Chance on hit to gain",
   "item.simplyswords.shieldingsworditem.tooltip3": "absorption.",
   "item.simplyswords.stoneskinsworditem.tooltip1": "ルーニックパワー: ストーンスキン",
+  "item.simplyswords.uniquesworditem.runefused_power.stoneskin": "[ Runefused: Stoneskin ]",
   "item.simplyswords.stoneskinsworditem.tooltip2": "Chance on hit to increase your",
   "item.simplyswords.stoneskinsworditem.tooltip3": "resistance at the cost of speed.",
   "item.simplyswords.trailblazesworditem.tooltip1": "ルーニックパワー: トレイルブレイズ",
+  "item.simplyswords.uniquesworditem.runefused_power.trailblaze": "[ Runefused: Trailblaze] ",
   "item.simplyswords.trailblazesworditem.tooltip2": "Chance on hit to gain fire resistance ",
   "item.simplyswords.trailblazesworditem.tooltip3": "and speed while igniting yourself.",
   "item.simplyswords.weakensworditem.tooltip1": "ルーニックパワー: ウィーク",
+  "item.simplyswords.uniquesworditem.runefused_power.weaken": "[ Runefused: Weaken ]",
   "item.simplyswords.weakensworditem.tooltip2": "Chance on hit to slow and",
   "item.simplyswords.weakensworditem.tooltip3": "weaken your target.",
   "item.simplyswords.unstablesworditem.tooltip1": "ルーニックパワー: 不安定化",
+  "item.simplyswords.uniquesworditem.runefused_power.unstable": "[ Runefused: Unstable ]",
   "item.simplyswords.unstablesworditem.tooltip2": "Regularly apply random effects",
   "item.simplyswords.unstablesworditem.tooltip3": "to the wielder.",
   "item.simplyswords.activedefencesworditem.tooltip1": "ルーニックパワー: アクティブディフェンス",
+  "item.simplyswords.uniquesworditem.runefused_power.activedefence": "[ Runefused: Active defence ]",
   "item.simplyswords.activedefencesworditem.tooltip2": "Regularly fires arrows at nearby",
   "item.simplyswords.activedefencesworditem.tooltip3": "enemies (Requires Arrows).",
   "item.simplyswords.frostwardsworditem.tooltip1": "ルーニックパワー: フロストワード",
+  "item.simplyswords.uniquesworditem.runefused_power.frostward": "[ Runefused: Frost Ward ]",
   "item.simplyswords.frostwardsworditem.tooltip2": "Regularly fires movement impairing",
   "item.simplyswords.frostwardsworditem.tooltip3": "snowballs at all nearby enemies.",
+  "item.simplyswords.momentumsworditem.tooltip1": "ルーンパワー: 勢い",
+  "item.simplyswords.uniquesworditem.runefused_power.momentum": "[ Runefused: Momentum ]",
+  "item.simplyswords.momentumsworditem.tooltip2": "Gain a brief moment of strong",
+  "item.simplyswords.momentumsworditem.tooltip3": "forward momentum.",
+  "item.simplyswords.imbuedsworditem.tooltip1": "ルーンパワー: 注入済み",
+  "item.simplyswords.uniquesworditem.runefused_power.imbued": "[ Runefused: Imbued ]",
+  "item.simplyswords.imbuedsworditem.tooltip2": "Chance on hit to deal additional",
+  "item.simplyswords.imbuedsworditem.tooltip3": "magic damage, scaling with durability.",
+  "item.simplyswords.pincushionsworditem.tooltip1": "ルーンパワー: 糸巻き",
+  "item.simplyswords.uniquesworditem.runefused_power.pincushion": "[ Runefused: Pincushion ]",
+  "item.simplyswords.pincushionsworditem.tooltip2": "Deal additional damage for each",
+  "item.simplyswords.pincushionsworditem.tooltip3": "arrow stuck in your body.",
+  "item.simplyswords.wardsworditem.tooltip1": "ルーンパワー: ウォード",
+  "item.simplyswords.uniquesworditem.runefused_power.ward": "[ Runefused: Ward ]",
+  "item.simplyswords.wardsworditem.tooltip2": "Sacrifice half your current HP to gain",
+  "item.simplyswords.wardsworditem.tooltip3": "pulsing absorption relative to your",
+  "item.simplyswords.wardsworditem.tooltip4": "remaining HP for 6 seconds.",
+  "item.simplyswords.immolationsworditem.tooltip1": "ルーンパワー: 焼身",
+  "item.simplyswords.uniquesworditem.runefused_power.immolation": "[ Runefused: Immolation ]",
+  "item.simplyswords.immolationsworditem.tooltip2": "Gain an aura of immolation, periodically",
+  "item.simplyswords.immolationsworditem.tooltip3": "damaging you and nearby foes. Outgoing ",
+  "item.simplyswords.immolationsworditem.tooltip4": "damage scales with your current HP.",
   "item.simplyswords.unidentifiedsworditem.tooltip1": "ルーニックパワー: ????",
-  "item.simplyswords.unidentifiedsworditem.tooltip2": "クリックして識別します。"
+  "item.simplyswords.unidentifiedsworditem.tooltip2": "クリックして識別します。",
+  
+
+
+  "item.simplyswords.uniquesworditem.netherfused_power.echo": "[ ネザーフューズド: エコー]",
+  "item.simplyswords.uniquesworditem.netherfused_power.echo.description": "Your weapon swings echo, dealing",
+  "item.simplyswords.uniquesworditem.netherfused_power.echo.description2": "additional unmitigated damage ",
+  "item.simplyswords.uniquesworditem.netherfused_power.echo.description3": "after a short delay.",
+
+  "item.simplyswords.uniquesworditem.netherfused_power.berserk": "[ ネザーフューズド: ベルセルク ]",
+  "item.simplyswords.uniquesworditem.netherfused_power.berserk.description": "When you have an armour value less",
+  "item.simplyswords.uniquesworditem.netherfused_power.berserk.description2": "than 10, your weapon swings siphon ",
+  "item.simplyswords.uniquesworditem.netherfused_power.berserk.description3": "health from the target.",
+
+  "item.simplyswords.uniquesworditem.netherfused_power.radiance": "[ ネザーフューズド: ラディアンス ]",
+  "item.simplyswords.uniquesworditem.netherfused_power.radiance.description": "When hitting a target afflicted",
+  "item.simplyswords.uniquesworditem.netherfused_power.radiance.description2": "with weakness, gain Immolation",
+  "item.simplyswords.uniquesworditem.netherfused_power.radiance.description3": "for a short duration.",
+
+  "item.simplyswords.uniquesworditem.netherfused_power.onslaught": "[ ネザーフューズド: オンスロートt ]",
+  "item.simplyswords.uniquesworditem.netherfused_power.onslaught.description": "When hitting a target afflicted",
+  "item.simplyswords.uniquesworditem.netherfused_power.onslaught.description2": "with slowness, gain Onslaught",
+  "item.simplyswords.uniquesworditem.netherfused_power.onslaught.description3": "for a short duration.",
+  "item.simplyswords.uniquesworditem.netherfused_power.onslaught.description4": "(Onslaught grants you pulsing",
+  "item.simplyswords.uniquesworditem.netherfused_power.onslaught.description5": "haste, but inflicts you with",
+  "item.simplyswords.uniquesworditem.netherfused_power.onslaught.description6": "weakness when it expires).",
+
+  "item.simplyswords.uniquesworditem.netherfused_power.nullification": "[ ネザーフューズド: 無効化 ]",
+  "item.simplyswords.uniquesworditem.netherfused_power.nullification.description": "Summons a Battle Standard on hit",
+  "item.simplyswords.uniquesworditem.netherfused_power.nullification.description2": "that periodically cleanses",
+  "item.simplyswords.uniquesworditem.netherfused_power.nullification.description3": "debuffs from allied players,",
+  "item.simplyswords.uniquesworditem.netherfused_power.nullification.description4": "while stripping buffs from",
+  "item.simplyswords.uniquesworditem.netherfused_power.nullification.description5": "enemies within its vicinity.",
+
+  "item.simplyswords.common.blacklisteffect": "能力無効",
+
+  "entity.simplyswords.battlestandard.name": "%d'の軍旗"
 }
